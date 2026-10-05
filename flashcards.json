@@ -1,0 +1,3502 @@
+[
+ {
+  "chapter": 1,
+  "front": "What are the four classic features that distinguish adaptive from innate immunity?",
+  "back": "Diversity (somatically generated receptor repertoire), clonal selection, self-tolerance, and immunologic memory; innate immunity is immediate and germline-encoded.",
+  "domain": "immunology_foundations",
+  "id": 1
+ },
+ {
+  "chapter": 1,
+  "front": "Which lymphoid organs are primary and which are secondary?",
+  "back": "Primary: bone marrow and thymus, where lymphocytes are generated and educated. Secondary: lymph nodes, spleen, and MALT, where mature lymphocytes meet antigen.",
+  "domain": "immunology_foundations",
+  "id": 2
+ },
+ {
+  "chapter": 1,
+  "front": "How do naive lymphocytes enter a lymph node, and how do they leave?",
+  "back": "They enter through high endothelial venules using L-selectin and CCR7 (drawn by CCL19/CCL21) and exit along sphingosine-1-phosphate gradients, the step blocked by fingolimod.",
+  "domain": "immunology_foundations",
+  "id": 3
+ },
+ {
+  "chapter": 1,
+  "front": "Why are asplenic patients at risk for overwhelming sepsis, and with which organisms?",
+  "back": "Loss of marginal zone B cells and splenic macrophages that clear poorly opsonized blood-borne encapsulated bacteria: Streptococcus pneumoniae, Haemophilus influenzae type b, and Neisseria meningitidis. Howell-Jolly bodies flag the state.",
+  "domain": "immunology_foundations",
+  "id": 4
+ },
+ {
+  "chapter": 1,
+  "front": "Which organisms characteristically infect patients with chronic granulomatous disease?",
+  "back": "Catalase-positive organisms: Staphylococcus aureus, Serratia, Nocardia, Burkholderia cepacia, and Aspergillus. The defect is in NADPH oxidase, screened with the dihydrorhodamine (DHR) assay.",
+  "domain": "immunology_foundations",
+  "id": 5
+ },
+ {
+  "chapter": 1,
+  "front": "What is the classic triad of leukocyte adhesion deficiency type 1?",
+  "back": "Delayed umbilical cord separation, recurrent bacterial infections without pus, and marked neutrophilia, caused by absent CD18 integrins so neutrophils cannot firmly arrest on endothelium.",
+  "domain": "immunology_foundations",
+  "id": 6
+ },
+ {
+  "chapter": 1,
+  "front": "What is the missing-self hypothesis of NK cell killing?",
+  "back": "Inhibitory receptors (KIRs, CD94/NKG2A) survey MHC class I; cells that downregulate class I to evade CD8 T cells lose the inhibitory signal and are killed by NK cells.",
+  "domain": "immunology_foundations",
+  "id": 7
+ },
+ {
+  "chapter": 1,
+  "front": "How does a functional NK cell deficiency typically present?",
+  "back": "Severe, recurrent, or disseminated herpesvirus infections, particularly varicella zoster, herpes simplex, and cytomegalovirus, in a patient with otherwise normal immune testing.",
+  "domain": "immunology_foundations",
+  "id": 8
+ },
+ {
+  "chapter": 1,
+  "front": "Which TLRs are endosomal and what do they sense?",
+  "back": "TLR3 (double-stranded RNA), TLR7 and TLR8 (single-stranded RNA), and TLR9 (unmethylated CpG DNA); their endosomal location is a tolerance mechanism against host nucleic acids.",
+  "domain": "immunology_foundations",
+  "id": 9
+ },
+ {
+  "chapter": 1,
+  "front": "How does MyD88 or IRAK-4 deficiency present, and what is the diagnostic trap?",
+  "back": "Severe recurrent pyogenic infections (especially invasive pneumococcus) in early childhood with deceptively blunted fever and low acute-phase reactants; risk lessens after childhood.",
+  "domain": "immunology_foundations",
+  "id": 10
+ },
+ {
+  "chapter": 1,
+  "front": "What are the two jobs of caspase-1 after NLRP3 inflammasome assembly?",
+  "back": "Cleaving pro-IL-1beta and pro-IL-18 into active cytokines, and cleaving gasdermin D, whose N-terminal fragment forms membrane pores that release cytokines and can cause pyroptosis.",
+  "domain": "immunology_foundations",
+  "id": 11
+ },
+ {
+  "chapter": 1,
+  "front": "Which cytokine drives hepatic CRP and hepcidin production, and what is the clinical consequence of blocking it?",
+  "back": "IL-6. Blockade with tocilizumab suppresses CRP so completely that serious infection can hide with normal inflammatory markers.",
+  "domain": "immunology_foundations",
+  "id": 12
+ },
+ {
+  "chapter": 1,
+  "front": "Which receptors does the common gamma chain serve, and what phenotype does its mutation cause?",
+  "back": "Receptors for IL-2, IL-4, IL-7, IL-9, IL-15, and IL-21. Mutation causes X-linked SCID: T-negative, B-positive, NK-negative (IL-7 loss blocks T cells, IL-15 loss blocks NK cells).",
+  "domain": "immunology_foundations",
+  "id": 13
+ },
+ {
+  "chapter": 1,
+  "front": "Which chemokine receptors does HIV use for entry?",
+  "back": "CCR5 (R5-tropic virus, blocked by maraviroc; homozygous CCR5-delta32 individuals are resistant) and CXCR4 (X4-tropic virus).",
+  "domain": "immunology_foundations",
+  "id": 14
+ },
+ {
+  "chapter": 1,
+  "front": "List the leukocyte adhesion cascade in order with its key molecules.",
+  "back": "Rolling (selectins binding sialyl-Lewis X), chemokine-triggered integrin activation, firm arrest (LFA-1/Mac-1 binding ICAM-1/VCAM-1), then transmigration guided by PECAM-1.",
+  "domain": "immunology_foundations",
+  "id": 15
+ },
+ {
+  "chapter": 1,
+  "front": "Deficiency of which complement protein is the strongest single-gene risk factor for SLE, and why?",
+  "back": "C1q, penetrant in over 90 percent of deficient individuals, because C1q opsonizes apoptotic cells; failed clearance releases nuclear autoantigens.",
+  "domain": "immunology_foundations",
+  "id": 16
+ },
+ {
+  "chapter": 2,
+  "front": "Contrast MHC class I and class II structure, peptide size, and cell distribution.",
+  "back": "Class I: HLA-A/B/C heavy chain plus beta2-microglobulin, closed groove, 8 to 10 amino acid peptides, all nucleated cells. Class II: HLA-DP/DQ/DR alpha-beta dimers, open groove, 13 to 25 amino acid peptides, professional antigen-presenting cells.",
+  "domain": "immunology_foundations",
+  "id": 17
+ },
+ {
+  "chapter": 2,
+  "front": "Trace the MHC class I antigen-processing pathway.",
+  "back": "Cytosolic proteins are degraded by the proteasome, peptides are pumped into the ER by TAP1/TAP2, loaded with tapasin's help, and stable peptide-MHC I complexes travel to the surface for CD8 cells.",
+  "domain": "immunology_foundations",
+  "id": 18
+ },
+ {
+  "chapter": 2,
+  "front": "What roles do invariant chain and HLA-DM play in class II loading?",
+  "back": "Invariant chain escorts class II from the ER and its CLIP fragment blocks the groove; HLA-DM catalyzes CLIP exchange for high-affinity endosomal peptides in the MIIC compartment.",
+  "domain": "immunology_foundations",
+  "id": 19
+ },
+ {
+  "chapter": 2,
+  "front": "What is cross-presentation and which dendritic cell subset specializes in it?",
+  "back": "Presentation of exogenous antigen (dying infected cells, tumor debris) on MHC class I to prime CD8 T cells, performed chiefly by BATF3-dependent cDC1 dendritic cells.",
+  "domain": "immunology_foundations",
+  "id": 20
+ },
+ {
+  "chapter": 2,
+  "front": "Which HLA allele mandates screening before abacavir, and what is the mechanism of the reaction?",
+  "back": "HLA-B*57:01. Abacavir binds within the groove and alters the displayed self-peptide repertoire, creating a neo-self that T cells attack.",
+  "domain": "immunology_foundations",
+  "id": 21
+ },
+ {
+  "chapter": 2,
+  "front": "Name the four sources of T-cell receptor diversity.",
+  "back": "Combinatorial V(D)J segment choice, combinatorial pairing of the two chains, junctional imprecision, and TdT-added nontemplated N-nucleotides.",
+  "domain": "immunology_foundations",
+  "id": 22
+ },
+ {
+  "chapter": 2,
+  "front": "What phenotype do null RAG1/RAG2 mutations cause, and what do hypomorphic mutations cause?",
+  "back": "Null: T-negative, B-negative, NK-positive SCID. Hypomorphic: Omenn syndrome, with erythroderma, lymphadenopathy, eosinophilia, elevated IgE, and oligoclonal autoreactive T cells.",
+  "domain": "immunology_foundations",
+  "id": 23
+ },
+ {
+  "chapter": 2,
+  "front": "Why do TRECs work as a newborn screen for SCID?",
+  "back": "T-cell receptor excision circles are episomal, nonreplicating byproducts of alpha-chain rearrangement, so their abundance reflects fresh thymic output; absence flags failed T-cell production regardless of genotype.",
+  "domain": "immunology_foundations",
+  "id": 24
+ },
+ {
+  "chapter": 2,
+  "front": "State the avidity rule of thymic selection.",
+  "back": "No binding to self-MHC brings death by neglect; high-avidity self-binding brings negative selection (deletion or Treg diversion); intermediate binding brings positive selection and lineage commitment.",
+  "domain": "immunology_foundations",
+  "id": 25
+ },
+ {
+  "chapter": 2,
+  "front": "What does AIRE do, and what disease follows its loss?",
+  "back": "AIRE drives medullary thymic epithelial cells to express tissue-restricted antigens for negative selection. Loss causes APECED/APS-1: chronic mucocutaneous candidiasis, hypoparathyroidism, and adrenal insufficiency.",
+  "domain": "immunology_foundations",
+  "id": 26
+ },
+ {
+  "chapter": 2,
+  "front": "How do CTLA-4 and PD-1 differ in where they act?",
+  "back": "CTLA-4 outcompetes CD28 for B7 at the priming step in lymphoid tissue (blocked by ipilimumab); PD-1 dampens TCR signaling in peripheral tissues during chronic stimulation (blocked by nivolumab and pembrolizumab).",
+  "domain": "immunology_foundations",
+  "id": 27
+ },
+ {
+  "chapter": 2,
+  "front": "Give the inducing cytokines, master transcription factor, and signature cytokines for Th1, Th2, and Th17 cells.",
+  "back": "Th1: IL-12, T-bet, IFN-gamma. Th2: IL-4, GATA3, IL-4/IL-5/IL-13. Th17: TGF-beta plus IL-6 (IL-23 stabilizes), ROR-gamma-t, IL-17 and IL-22.",
+  "domain": "immunology_foundations",
+  "id": 28
+ },
+ {
+  "chapter": 2,
+  "front": "What infections mark defects in the IL-12/IFN-gamma axis?",
+  "back": "Disseminated BCG, nontuberculous mycobacteria, and Salmonella: Mendelian susceptibility to mycobacterial disease. Acquired anti-IFN-gamma autoantibodies phenocopy it in adults.",
+  "domain": "immunology_foundations",
+  "id": 29
+ },
+ {
+  "chapter": 2,
+  "front": "Which interaction fails in X-linked hyper-IgM syndrome, and which opportunistic infections result?",
+  "back": "CD40 ligand on T cells engaging CD40 on B cells and phagocytes. High IgM with low IgG/IgA plus Pneumocystis jirovecii pneumonia and Cryptosporidium diarrhea with sclerosing cholangitis.",
+  "domain": "immunology_foundations",
+  "id": 30
+ },
+ {
+  "chapter": 2,
+  "front": "What single enzyme performs both somatic hypermutation and class-switch recombination?",
+  "back": "Activation-induced cytidine deaminase (AID), which deaminates cytosine to uracil in immunoglobulin DNA; its deficiency causes autosomal recessive hyper-IgM without opportunistic infections.",
+  "domain": "immunology_foundations",
+  "id": 31
+ },
+ {
+  "chapter": 2,
+  "front": "Why does antibody made by long-lived plasma cells survive rituximab therapy?",
+  "back": "Long-lived plasma cells downregulate CD20 and reside in marrow niches, so anti-CD20 depletion removes B cells and memory B cells but leaves established serum titers largely intact.",
+  "domain": "immunology_foundations",
+  "id": 32
+ },
+ {
+  "chapter": 3,
+  "front": "Distinguish antibody affinity from avidity.",
+  "back": "Affinity is the strength of one binding site for one epitope; avidity is the aggregate multivalent strength, which is why low-affinity pentameric IgM still binds and agglutinates powerfully.",
+  "domain": "immunology_foundations",
+  "id": 33
+ },
+ {
+  "chapter": 3,
+  "front": "Match the IgG subclasses to their signature properties.",
+  "back": "IgG1/IgG3: protein antigens, best complement fixation and Fc binding (IgG3 half-life only about 7 days). IgG2: polysaccharide antigens. IgG4: poor complement fixation, Fab-arm exchange, IgG4-related disease.",
+  "domain": "immunology_foundations",
+  "id": 34
+ },
+ {
+  "chapter": 3,
+  "front": "Why does IgM fix complement more efficiently than IgG?",
+  "back": "A single surface-bound IgM pentamer presents enough clustered Fc to engage C1q, whereas C1q must bridge at least two closely spaced surface-bound IgG molecules.",
+  "domain": "immunology_foundations",
+  "id": 35
+ },
+ {
+  "chapter": 3,
+  "front": "What does elevated pathogen-specific IgM in a newborn indicate, and why?",
+  "back": "Congenital (in utero) infection: IgM is a pentamer that cannot cross the placenta, so any IgM in newborn serum is the infant's own synthesis.",
+  "domain": "immunology_foundations",
+  "id": 36
+ },
+ {
+  "chapter": 3,
+  "front": "What are the components and function of secretory IgA?",
+  "back": "An IgA dimer joined by J chain, transported across epithelium by the polymeric immunoglobulin receptor, retaining secretory component for protease resistance; it performs immune exclusion at mucosal surfaces.",
+  "domain": "immunology_foundations",
+  "id": 37
+ },
+ {
+  "chapter": 3,
+  "front": "What transfusion risk accompanies complete selective IgA deficiency?",
+  "back": "Anaphylaxis to IgA-containing blood products in patients who have formed anti-IgA antibodies; washed products or IgA-deficient donors are used.",
+  "domain": "immunology_foundations",
+  "id": 38
+ },
+ {
+  "chapter": 3,
+  "front": "What receptor mediates transplacental IgG transfer, and when does most transfer occur?",
+  "back": "The neonatal Fc receptor (FcRn) in the syncytiotrophoblast, with transfer accelerating through the third trimester, which is why very preterm infants are hypogammaglobulinemic. FcRn recycling also gives IgG its 21-day half-life.",
+  "domain": "immunology_foundations",
+  "id": 39
+ },
+ {
+  "chapter": 3,
+  "front": "Why is measles-mumps-rubella vaccination deferred to 12 months of age?",
+  "back": "Circulating maternal IgG neutralizes the live attenuated vaccine viruses before they can replicate and immunize the infant.",
+  "domain": "immunology_foundations",
+  "id": 40
+ },
+ {
+  "chapter": 3,
+  "front": "Write the C3 and C5 convertases for the classical/lectin and alternative pathways.",
+  "back": "Classical and lectin C3 convertase: C4b2a; C5 convertase: C4b2a3b. Alternative C3 convertase: C3bBb (properdin-stabilized); C5 convertase: C3bBb3b.",
+  "domain": "immunology_foundations",
+  "id": 41
+ },
+ {
+  "chapter": 3,
+  "front": "How is the alternative complement pathway activated?",
+  "back": "It is not triggered; constant low-grade C3 tickover deposits C3b everywhere, and amplification proceeds only on surfaces lacking regulators (factor H recruitment, membrane inhibitors), so unprotected microbial surfaces ignite it.",
+  "domain": "immunology_foundations",
+  "id": 42
+ },
+ {
+  "chapter": 3,
+  "front": "What are the three main effector outputs of complement activation?",
+  "back": "Opsonization by C3b/iC3b for complement receptors, inflammation by anaphylatoxins C3a and C5a (C5a a major neutrophil chemoattractant), and lysis by the C5b-9 membrane attack complex.",
+  "domain": "immunology_foundations",
+  "id": 43
+ },
+ {
+  "chapter": 3,
+  "front": "What mediator causes swelling in hereditary angioedema, and what is the screening lab?",
+  "back": "Bradykinin, generated by kallikrein escaping deficient C1 inhibitor; histamine-directed drugs fail. Screen with C4, which is persistently low, then confirm with C1-INH level or function.",
+  "domain": "immunology_foundations",
+  "id": 44
+ },
+ {
+  "chapter": 3,
+  "front": "What is the molecular lesion of paroxysmal nocturnal hemoglobinuria?",
+  "back": "An acquired somatic PIGA mutation in a hematopoietic stem cell abolishes GPI anchor synthesis, so progeny lack CD55 and CD59 and suffer complement-mediated intravascular hemolysis and thrombosis; diagnose by flow cytometry with FLAER.",
+  "domain": "immunology_foundations",
+  "id": 45
+ },
+ {
+  "chapter": 3,
+  "front": "Which infections mark terminal complement (C5-C9) deficiency, and what iatrogenic state reproduces it?",
+  "back": "Recurrent Neisseria meningitidis infection, often unusual serogroups, individually less lethal episodes. Eculizumab/ravulizumab reproduce it, mandating MenACWY plus MenB vaccination and often penicillin prophylaxis.",
+  "domain": "immunology_foundations",
+  "id": 46
+ },
+ {
+  "chapter": 3,
+  "front": "Interpret: CH50 absent, AH50 normal, C3 and C4 normal.",
+  "back": "A deficiency of an early classical component (C1, C4, or C2, with normal levels pointing to C1 or C2); both assays absent localizes to C3 or terminal components, AH50 absent alone to factor B, factor D, or properdin.",
+  "domain": "immunology_foundations",
+  "id": 47
+ },
+ {
+  "chapter": 3,
+  "front": "Interpret complement consumption patterns: low C3 and C4 versus low C3 alone versus low C4 alone.",
+  "back": "Low C3 and C4: classical pathway consumption (active lupus, cryoglobulinemia). Low C3 with normal C4: alternative pathway activity (C3 glomerulopathy, atypical HUS). Low C4 with normal C3: C1 inhibitor deficiency or cryoglobulinemia.",
+  "domain": "immunology_foundations",
+  "id": 48
+ },
+ {
+  "chapter": 4,
+  "front": "Which three effector arms control extracellular bacteria?",
+  "back": "Antibody, complement, and neutrophils. Encapsulated organisms must first be opsonized by anticapsular IgG and C3b before phagocytes can grip them.",
+  "domain": "immunology_foundations",
+  "id": 49
+ },
+ {
+  "chapter": 4,
+  "front": "Why does terminal complement deficiency predispose only to Neisseria and not to pneumococcus?",
+  "back": "The C5b-9 membrane attack complex directly lyses thin-walled gram-negatives like Neisseria. Thick gram-positive peptidoglycan resists it, so pneumococcal control depends on opsonization instead.",
+  "domain": "immunology_foundations",
+  "id": 50
+ },
+ {
+  "chapter": 4,
+  "front": "What two defenses does the spleen provide that no other organ replaces?",
+  "back": "Sinusoidal macrophage filtration of poorly opsonized encapsulated bacteria from blood, and marginal zone B cells that make rapid IgM against polysaccharide antigens.",
+  "domain": "immunology_foundations",
+  "id": 51
+ },
+ {
+  "chapter": 4,
+  "front": "Which organisms cause fulminant infection specifically in asplenic patients?",
+  "back": "Streptococcus pneumoniae above all, other encapsulated bacteria, intraerythrocytic parasites (Babesia, malaria), and Capnocytophaga canimorsus after dog bites or scratches.",
+  "domain": "immunology_foundations",
+  "id": 52
+ },
+ {
+  "chapter": 4,
+  "front": "Describe the positive feedback loop that controls intracellular bacteria.",
+  "back": "Infected macrophages secrete IL-12, which drives Th1 differentiation; Th1 cells return interferon-gamma and CD40 ligand, which activate the macrophage to kill what it previously only housed.",
+  "domain": "immunology_foundations",
+  "id": 53
+ },
+ {
+  "chapter": 4,
+  "front": "Why do TNF inhibitors reactivate latent tuberculosis?",
+  "back": "TNF is the architectural glue holding granulomas together. Blocking it dissolves the structure that was containing viable organisms, releasing them.",
+  "domain": "immunology_foundations",
+  "id": 54
+ },
+ {
+  "chapter": 4,
+  "front": "What is Mendelian susceptibility to mycobacterial disease, and what is its acquired phenocopy?",
+  "back": "Genetic defects in IL-12 receptor, IL-12 p40, interferon-gamma receptor, or STAT1 causing disseminated nontuberculous mycobacterial and Salmonella disease. The acquired version is neutralizing anti-interferon-gamma autoantibodies.",
+  "domain": "immunology_foundations",
+  "id": 55
+ },
+ {
+  "chapter": 4,
+  "front": "Two mechanisms by which Mycobacterium tuberculosis persists inside macrophages?",
+  "back": "A mycolic acid-rich waxy wall resisting lysozyme, defensins, drying, and acid, plus active arrest of phagosome maturation so the vacuole never acidifies or fuses with lysosomes.",
+  "domain": "immunology_foundations",
+  "id": 56
+ },
+ {
+  "chapter": 4,
+  "front": "State the missing-self hypothesis of NK cell recognition.",
+  "back": "MHC class I is the ligand for NK inhibitory receptors, so a virus-infected cell that downregulates class I to hide from cytotoxic T cells simultaneously unmasks itself to NK killing.",
+  "domain": "immunology_foundations",
+  "id": 57
+ },
+ {
+  "chapter": 4,
+  "front": "Which arm of immunity handles a virus before entry versus after entry?",
+  "back": "Neutralizing antibody blocks viral attachment and entry into new cells. Once inside, only cytotoxic CD8 T cells recognizing peptide on MHC class I can act.",
+  "domain": "immunology_foundations",
+  "id": 58
+ },
+ {
+  "chapter": 4,
+  "front": "Which fungal infections track with neutropenia versus with T cell defects?",
+  "back": "Neutropenia gives invasive Candida and Aspergillus. T cell and IL-17 pathway defects give mucocutaneous candidiasis, and low CD4 counts give Pneumocystis, Cryptococcus, and endemic dimorphic fungi.",
+  "domain": "immunology_foundations",
+  "id": 59
+ },
+ {
+  "chapter": 4,
+  "front": "Which immune axis attacks helminths, and what drug converts latent Strongyloides into hyperinfection?",
+  "back": "Type 2 immunity: Th2 cytokines IL-4, IL-5, and IL-13 driving IgE, eosinophilia, and mucus secretion. Corticosteroids can precipitate Strongyloides hyperinfection syndrome.",
+  "domain": "immunology_foundations",
+  "id": 60
+ },
+ {
+  "chapter": 4,
+  "front": "Which organisms does chronic granulomatous disease select for, and why?",
+  "back": "Catalase-positive organisms (Staphylococcus aureus, Serratia, Burkholderia cepacia, Nocardia, Aspergillus), because they degrade the hydrogen peroxide these neutrophils cannot generate themselves.",
+  "domain": "immunology_foundations",
+  "id": 61
+ },
+ {
+  "chapter": 4,
+  "front": "How does secretory IgA reach the mucosal lumen and survive there?",
+  "back": "The polymeric immunoglobulin receptor transports J chain-joined dimeric IgA across epithelium, then is cleaved so a secretory component fragment stays attached and shields the antibody from luminal proteases.",
+  "domain": "immunology_foundations",
+  "id": 62
+ },
+ {
+  "chapter": 4,
+  "front": "What is colonization resistance, and what disease demonstrates its loss?",
+  "back": "Commensal exclusion of pathogens through nutrient competition, bacteriocins, and secondary bile acids. Antibiotic depletion of that community causes Clostridioides difficile colitis, cured in about 90 percent of recurrences by microbiota restoration.",
+  "domain": "immunology_foundations",
+  "id": 63
+ },
+ {
+  "chapter": 4,
+  "front": "Distinguish influenza antigenic drift from antigenic shift.",
+  "back": "Drift is stepwise point mutation in hemagglutinin and neuraminidase, requiring annual revaccination. Shift is reassortment of whole genome segments during coinfection, producing pandemic strains.",
+  "domain": "immunology_foundations",
+  "id": 64
+ },
+ {
+  "chapter": 5,
+  "front": "Why must vaccine response titers be drawn before immunoglobulin replacement begins?",
+  "back": "Infused pooled donor IgG makes every subsequent titer reflect the donor pool rather than the patient, permanently foreclosing the functional diagnosis.",
+  "domain": "immunology_foundations",
+  "id": 65
+ },
+ {
+  "chapter": 5,
+  "front": "Which secondary causes of hypogammaglobulinemia must be excluded before diagnosing a primary defect?",
+  "back": "Protein loss (nephrotic syndrome, protein-losing enteropathy), drugs (rituximab, corticosteroids, phenytoin, carbamazepine), hematologic malignancy (CLL, myeloma), and thymoma with hypogammaglobulinemia (Good syndrome).",
+  "domain": "immunology_foundations",
+  "id": 66
+ },
+ {
+  "chapter": 5,
+  "front": "Give the standard adult criterion for an adequate pneumococcal polysaccharide vaccine response.",
+  "back": "A serotype-specific IgG of at least 1.3 micrograms per milliliter, or a twofold or greater rise, in at least 70 percent of serotypes tested four to six weeks after PPSV23.",
+  "domain": "immunology_foundations",
+  "id": 67
+ },
+ {
+  "chapter": 5,
+  "front": "Match each SCID flow cytometry pattern to its gene defect.",
+  "back": "T-B+NK- is common gamma chain or JAK3; T-B-NK+ is RAG1/RAG2; T-B-NK- is adenosine deaminase deficiency; T-B+NK+ is IL-7 receptor alpha.",
+  "domain": "immunology_foundations",
+  "id": 68
+ },
+ {
+  "chapter": 5,
+  "front": "How does the dihydrorhodamine test work, and what can confound it?",
+  "back": "Stimulated neutrophils with a functioning NADPH oxidase oxidize a nonfluorescent dye to fluorescent rhodamine, read per cell by flow cytometry. Myeloperoxidase deficiency can cause an abnormal result without chronic granulomatous disease.",
+  "domain": "immunology_foundations",
+  "id": 69
+ },
+ {
+  "chapter": 5,
+  "front": "Interpret the CH50/AH50 grid.",
+  "back": "Low CH50 with normal AH50 means a classical component (C1q, C1r, C1s, C4, C2); low AH50 with normal CH50 means factor B, factor D, or properdin; both low means C3 or the terminal components C5 through C9.",
+  "domain": "immunology_foundations",
+  "id": 70
+ },
+ {
+  "chapter": 5,
+  "front": "Name the Gram stain's diagnostic blind spots.",
+  "back": "Mycobacteria (waxy wall), Mycoplasma (no cell wall), spirochetes (too thin), Legionella (stains poorly), and intracellular Chlamydia and Rickettsia.",
+  "domain": "immunology_foundations",
+  "id": 71
+ },
+ {
+  "chapter": 5,
+  "front": "What does MALDI-TOF actually measure, and what can it not tell you?",
+  "back": "Laser-desorbed, ionized microbial proteins, mostly ribosomal, timed down a flight tube to give a species fingerprint. It cannot report susceptibility, needs a grown isolate, and cannot resolve some close relatives.",
+  "domain": "immunology_foundations",
+  "id": 72
+ },
+ {
+  "chapter": 5,
+  "front": "What is the single most important variable in blood culture yield?",
+  "back": "Volume. Adults need 20 mL per set split between aerobic and anaerobic bottles, with two to four sets drawn before antibiotics, since bacteremia may run below one organism per milliliter.",
+  "domain": "immunology_foundations",
+  "id": 73
+ },
+ {
+  "chapter": 5,
+  "front": "Which two blood culture isolates are never dismissed as contaminants?",
+  "back": "Staphylococcus aureus, which mandates evaluation for endocarditis and metastatic infection, and Candida species, which mandate therapy, repeat cultures to document clearance, and ophthalmologic consideration.",
+  "domain": "immunology_foundations",
+  "id": 74
+ },
+ {
+  "chapter": 5,
+  "front": "Why can two drugs' MIC values not be compared with each other?",
+  "back": "Each MIC has meaning only against its own agent's breakpoint, which integrates achievable site concentrations, pharmacodynamics, and outcome data. Breakpoints can also be site-specific, as with pneumococcal penicillin in meningitis.",
+  "domain": "immunology_foundations",
+  "id": 75
+ },
+ {
+  "chapter": 5,
+  "front": "State the two honest limits of a multiplex syndromic panel.",
+  "back": "It detects only its listed targets, so a negative result never excludes infection; and detecting nucleic acid is not detecting disease, since colonization and residual DNA both test positive.",
+  "domain": "immunology_foundations",
+  "id": 76
+ },
+ {
+  "chapter": 5,
+  "front": "How does IgG avidity testing answer a timing question serology cannot?",
+  "back": "Avidity matures over months, so high-avidity IgG excludes infection within roughly the preceding three to four months, the decisive question in pregnancy-associated toxoplasmosis and CMV.",
+  "domain": "immunology_foundations",
+  "id": 77
+ },
+ {
+  "chapter": 5,
+  "front": "Contrast CRP and ESR kinetics.",
+  "back": "CRP rises within four to six hours, peaks at 36 to 50 hours, and falls with a 19-hour half-life, suiting short-term monitoring. ESR depends on fibrinogen and rises and falls over one to two weeks.",
+  "domain": "immunology_foundations",
+  "id": 78
+ },
+ {
+  "chapter": 5,
+  "front": "When is procalcitonin deceptively high or deceptively low?",
+  "back": "Falsely high after major surgery, trauma, burns, cardiogenic shock, and in renal impairment. Falsely low in localized infection without systemic response: empyema, abscess, osteomyelitis, endocarditis, and atypical pathogens.",
+  "domain": "immunology_foundations",
+  "id": 79
+ },
+ {
+  "chapter": 5,
+  "front": "Why is a prior BCG vaccination irrelevant to an interferon-gamma release assay?",
+  "back": "The assay stimulates with ESAT-6 and CFP-10, encoded in the RD1 region that is deleted from every BCG vaccine strain, so vaccination cannot produce a positive result.",
+  "domain": "immunology_foundations",
+  "id": 80
+ },
+ {
+  "chapter": 6,
+  "front": "What is the molecular lesion and flow cytometry signature of X-linked agammaglobulinemia?",
+  "back": "BTK mutations arrest B cell development at the pre-B stage, giving CD19+ B cells below 2 percent, all immunoglobulin classes severely low, and normal T and NK cells (T+B-NK+).",
+  "domain": "immunodeficiency",
+  "id": 81
+ },
+ {
+  "chapter": 6,
+  "front": "What physical examination finding supports agammaglobulinemia at the bedside?",
+  "back": "Absent or strikingly hypoplastic tonsils, adenoids, and peripheral lymph nodes, since these structures are built largely from B cell follicles.",
+  "domain": "immunodeficiency",
+  "id": 82
+ },
+ {
+  "chapter": 6,
+  "front": "Which viral family causes chronic meningoencephalitis specifically in agammaglobulinemia?",
+  "back": "Enteroviruses. Live oral polio vaccine historically caused paralytic disease in these patients, evidence that circulating antibody rather than T cell immunity is the decisive defense.",
+  "domain": "immunodeficiency",
+  "id": 83
+ },
+ {
+  "chapter": 6,
+  "front": "State the four diagnostic requirements for common variable immunodeficiency.",
+  "back": "Markedly low IgG with low IgA or IgM or both, demonstrated failure of vaccine responses, exclusion of secondary hypogammaglobulinemia, and age older than four years.",
+  "domain": "immunodeficiency",
+  "id": 84
+ },
+ {
+  "chapter": 6,
+  "front": "What immediately distinguishes CVID from agammaglobulinemia on flow cytometry?",
+  "back": "B cells are present in normal or near-normal numbers in CVID; the lesion is failed differentiation into class-switched memory B cells (CD27+IgD-) and plasma cells.",
+  "domain": "immunodeficiency",
+  "id": 85
+ },
+ {
+  "chapter": 6,
+  "front": "Name the noninfectious complications of CVID that replacement therapy does not prevent.",
+  "back": "Autoimmune cytopenias, granulomatous lymphocytic interstitial lung disease, nodular regenerative hyperplasia of the liver, celiac-like enteropathy, splenomegaly and adenopathy, B cell lymphoma, and gastric cancer.",
+  "domain": "immunodeficiency",
+  "id": 86
+ },
+ {
+  "chapter": 6,
+  "front": "Two testable cautions in selective IgA deficiency?",
+  "back": "Celiac screening needs IgG-based serologies since IgA tissue transglutaminase is falsely negative, and anti-IgA antibodies can cause transfusion anaphylaxis requiring washed or IgA-deficient products.",
+  "domain": "immunodeficiency",
+  "id": 87
+ },
+ {
+  "chapter": 6,
+  "front": "Why is CD40 ligand deficiency a combined rather than a pure antibody defect?",
+  "back": "T cell CD40L licenses macrophages and dendritic cells as well as B cell class switching, so patients get Pneumocystis pneumonia and Cryptosporidium enteritis with sclerosing cholangitis alongside pyogenic infection.",
+  "domain": "immunodeficiency",
+  "id": 88
+ },
+ {
+  "chapter": 6,
+  "front": "What do T cell receptor excision circles measure, and why are they the right screen?",
+  "back": "Nonreplicating circular DNA byproducts of thymic T cell receptor rearrangement, so they mark fresh thymic output regardless of genotype or total lymphocyte count.",
+  "domain": "immunodeficiency",
+  "id": 89
+ },
+ {
+  "chapter": 6,
+  "front": "Two iatrogenic hazards in a T cell deficient infant before definitive therapy?",
+  "back": "Live vaccines (rotavirus, BCG) causing disseminated vaccine-strain disease, and unirradiated cellular blood products causing transfusion-associated graft-versus-host disease. Products must be irradiated, leukoreduced, and CMV-safe.",
+  "domain": "immunodeficiency",
+  "id": 90
+ },
+ {
+  "chapter": 6,
+  "front": "Why can the T cell count be normal in Omenn syndrome?",
+  "back": "Hypomorphic RAG mutations let a few clones develop that then expand oligoclonally and autoaggressively. The cells are numerous but functionally useless, so mitogen proliferation is absent and TRECs are low.",
+  "domain": "immunodeficiency",
+  "id": 91
+ },
+ {
+  "chapter": 6,
+  "front": "What platelet finding separates Wiskott-Aldrich syndrome from immune thrombocytopenia?",
+  "back": "Platelets are both reduced and small (low mean platelet volume) from the WASp cytoskeletal defect, whereas immune destruction releases characteristically large young platelets.",
+  "domain": "immunodeficiency",
+  "id": 92
+ },
+ {
+  "chapter": 6,
+  "front": "Which screening test supports ataxia-telangiectasia in a toddler with unexplained ataxia?",
+  "back": "Serum alpha-fetoprotein, elevated in the great majority. The ATM DNA repair defect also brings radiosensitivity, so diagnostic radiation is minimized and malignancy risk is high.",
+  "domain": "immunodeficiency",
+  "id": 93
+ },
+ {
+  "chapter": 6,
+  "front": "Why does complete DiGeorge syndrome need thymus tissue implantation rather than a stem cell transplant?",
+  "back": "The defect is an absent thymic microenvironment, not an intrinsic lymphocyte defect, so donor stem cells would have no organ in which to be educated.",
+  "domain": "immunodeficiency",
+  "id": 94
+ },
+ {
+  "chapter": 6,
+  "front": "Why are the abscesses of Job syndrome cold?",
+  "back": "Dominant-negative STAT3 mutations blunt IL-6 signaling and Th17 responses, so the expected inflammatory warmth and tenderness never develop despite active staphylococcal infection.",
+  "domain": "immunodeficiency",
+  "id": 95
+ },
+ {
+  "chapter": 6,
+  "front": "Give standard immunoglobulin replacement dosing and what it does not do.",
+  "back": "400 to 600 mg/kg every three to four weeks intravenously, or weekly subcutaneous equivalent, trough commonly above 700 mg/dL. It replaces only IgG: not IgA, not IgM, not T cell function, and it does not prevent CVID's dysregulation complications.",
+  "domain": "immunodeficiency",
+  "id": 96
+ },
+ {
+  "chapter": 7,
+  "front": "A patient has recurrent abscesses with Staphylococcus aureus, Serratia, Burkholderia, Nocardia, and Aspergillus. What is the diagnosis and confirmatory test?",
+  "back": "Chronic granulomatous disease, an NADPH oxidase defect. Confirm with dihydrorhodamine (DHR) flow cytometry showing an absent or markedly reduced oxidative burst.",
+  "domain": "immunodeficiency",
+  "id": 97
+ },
+ {
+  "chapter": 7,
+  "front": "Why does the DHR assay show a bimodal histogram in the mother of a boy with X-linked CGD?",
+  "back": "Lyonization (random X inactivation) gives carriers two neutrophil populations, one with normal burst and one without, producing two discrete peaks.",
+  "domain": "immunodeficiency",
+  "id": 98
+ },
+ {
+  "chapter": 7,
+  "front": "What three prophylactic agents form standard lifelong management of chronic granulomatous disease?",
+  "back": "Trimethoprim-sulfamethoxazole (antibacterial), itraconazole (anti-Aspergillus), and interferon-gamma three times weekly. Allogeneic stem cell transplantation is curative.",
+  "domain": "immunodeficiency",
+  "id": 99
+ },
+ {
+  "chapter": 7,
+  "front": "An infant has delayed umbilical cord separation, necrotic skin infections without pus, and a neutrophil count of 50,000. What is the defect?",
+  "back": "Leukocyte adhesion deficiency type 1: absent CD18 (ITGB2 mutation), so neutrophils cannot firmly adhere to endothelium or enter tissue. Diagnose by flow cytometry for CD18.",
+  "domain": "immunodeficiency",
+  "id": 100
+ },
+ {
+  "chapter": 7,
+  "front": "What blood smear finding is diagnostic of Chediak-Higashi syndrome, and what is the feared complication?",
+  "back": "Giant intracytoplasmic granules in leukocytes (LYST mutation). The feared complication is the accelerated phase, an EBV-triggered HLH-like syndrome requiring urgent transplantation.",
+  "domain": "immunodeficiency",
+  "id": 101
+ },
+ {
+  "chapter": 7,
+  "front": "How do severe congenital neutropenia and cyclic neutropenia differ in leukemia risk, though both are usually caused by ELANE mutations?",
+  "back": "Severe congenital neutropenia is preleukemic (over 20 percent MDS/AML at 15 years, marked by acquired CSF3R mutations); cyclic neutropenia, with its 21-day oscillations, carries no measurable leukemia risk.",
+  "domain": "immunodeficiency",
+  "id": 102
+ },
+ {
+  "chapter": 7,
+  "front": "Deficiency of the early classical complement components C1q, C4, or C2 predisposes to what disease?",
+  "back": "Lupus-like autoimmune disease, from failed clearance of apoptotic cells and immune complexes. C1q deficiency carries the highest SLE risk (over 90 percent); C2 deficiency is the most common in Europeans.",
+  "domain": "immunodeficiency",
+  "id": 103
+ },
+ {
+  "chapter": 7,
+  "front": "A patient has a second episode of meningococcal meningitis caused by serogroup Y. What screening test and what deficiency?",
+  "back": "CH50 (add AH50 for properdin). A near-zero CH50 with normal C3 and C4 indicates terminal complement (C5-C9) deficiency, which raises meningococcal risk several thousandfold.",
+  "domain": "immunodeficiency",
+  "id": 104
+ },
+ {
+  "chapter": 7,
+  "front": "What vaccination strategy is required in terminal complement or properdin deficiency?",
+  "back": "MenACWY conjugate vaccine with boosters every 5 years plus the full serogroup B series, along with pneumococcal and Hib vaccination; some clinicians add penicillin prophylaxis.",
+  "domain": "immunodeficiency",
+  "id": 105
+ },
+ {
+  "chapter": 7,
+  "front": "What is the screening test for hereditary angioedema, and which drugs treat an acute attack?",
+  "back": "Low C4 (low in over 95 percent even between attacks), then C1 inhibitor level and function. Acute attacks: C1 inhibitor concentrate, icatibant (bradykinin B2 antagonist), or ecallantide (kallikrein inhibitor).",
+  "domain": "immunodeficiency",
+  "id": 106
+ },
+ {
+  "chapter": 7,
+  "front": "Why are ACE inhibitors contraindicated in hereditary angioedema, and why does epinephrine fail during attacks?",
+  "back": "Attacks are bradykinin-mediated: ACE is the main bradykinin-degrading enzyme, so inhibiting it worsens disease, and histamine-directed drugs (epinephrine, antihistamines, steroids) do not touch bradykinin swelling.",
+  "domain": "immunodeficiency",
+  "id": 107
+ },
+ {
+  "chapter": 7,
+  "front": "A child has recurrent pneumococcal sepsis with little fever and a barely elevated CRP. What innate defect fits?",
+  "back": "MyD88 or IRAK-4 deficiency: broken TLR and IL-1 receptor signaling causes invasive pyogenic infection with a blunted acute phase response. Susceptibility improves with age.",
+  "domain": "immunodeficiency",
+  "id": 108
+ },
+ {
+  "chapter": 7,
+  "front": "Defects in TLR3, UNC93B1, or TRIF produce what strikingly narrow infection phenotype?",
+  "back": "Childhood herpes simplex virus type 1 encephalitis, from failed interferon responses in cortical neurons and oligodendrocytes; other viral and bacterial defenses remain intact.",
+  "domain": "immunodeficiency",
+  "id": 109
+ },
+ {
+  "chapter": 7,
+  "front": "An adult has disseminated Mycobacterium avium infection, refractory HPV warts, and zero monocytes on the differential. What syndrome?",
+  "back": "GATA2 haploinsufficiency (MonoMAC syndrome): monocytopenia with B and NK lymphopenia, NTM and HPV disease, pulmonary alveolar proteinosis, and high MDS/AML risk. Transplantation is definitive.",
+  "domain": "immunodeficiency",
+  "id": 110
+ },
+ {
+  "chapter": 7,
+  "front": "Defects in the IL-12/interferon-gamma axis cause disseminated infection with which organisms?",
+  "back": "Low-virulence mycobacteria (BCG, environmental NTM) and nontyphoidal Salmonella. The adult acquired phenocopy is neutralizing anti-interferon-gamma autoantibodies, treated with antimycobacterials plus rituximab.",
+  "domain": "immunodeficiency",
+  "id": 111
+ },
+ {
+  "chapter": 7,
+  "front": "Compare attack duration and treatment across FMF, TRAPS, and CAPS.",
+  "back": "FMF (pyrin): 12-72 hour serositis attacks, lifelong colchicine prevents attacks and amyloidosis. TRAPS (TNFRSF1A): attacks last 1-3 weeks with migratory myalgia and periorbital edema. CAPS (NLRP3 gain-of-function): cold-triggered to continuous inflammation, treated with IL-1 blockade.",
+  "domain": "immunodeficiency",
+  "id": 112
+ },
+ {
+  "chapter": 8,
+  "front": "Why do adults 65 and older receive high-dose, adjuvanted, or recombinant vaccines?",
+  "back": "Immunosenescence: thymic involution shrinks the naive T cell pool and germinal center output falls, weakening standard vaccine responses. The adjuvanted recombinant zoster vaccine still achieves over 90 percent efficacy in the elderly.",
+  "domain": "immunodeficiency",
+  "id": 113
+ },
+ {
+  "chapter": 8,
+  "front": "Name the classic infections wedded to diabetes mellitus on board exams.",
+  "back": "Rhinocerebral mucormycosis in DKA, Pseudomonas malignant otitis externa, emphysematous pyelonephritis and cholecystitis, Fournier gangrene, tuberculosis, and hypervirulent Klebsiella liver abscess with endophthalmitis.",
+  "domain": "immunodeficiency",
+  "id": 114
+ },
+ {
+  "chapter": 8,
+  "front": "What ascitic fluid finding diagnoses spontaneous bacterial peritonitis, and what is added to antibiotics?",
+  "back": "Ascitic neutrophil count of 250 cells per microliter or more. Treat with a third-generation cephalosporin plus intravenous albumin on days 1 and 3 to prevent hepatorenal injury, then lifelong secondary prophylaxis.",
+  "domain": "immunodeficiency",
+  "id": 115
+ },
+ {
+  "chapter": 8,
+  "front": "A cirrhotic patient develops fulminant sepsis with hemorrhagic bullae after eating raw oysters. What organism?",
+  "back": "Vibrio vulnificus, a siderophilic organism whose virulence is amplified by the iron overload of liver disease.",
+  "domain": "immunodeficiency",
+  "id": 116
+ },
+ {
+  "chapter": 8,
+  "front": "Why does nephrotic syndrome predispose to pneumococcal peritonitis?",
+  "back": "Size-selective urinary loss of IgG and complement factor B cripples opsonization of encapsulated bacteria, while larger IgM is retained; low-protein ascites has poor opsonic activity.",
+  "domain": "immunodeficiency",
+  "id": 117
+ },
+ {
+  "chapter": 8,
+  "front": "What organisms cause overwhelming post-splenectomy infection, and what is its mortality?",
+  "back": "Streptococcus pneumoniae in 50-90 percent, then Haemophilus influenzae type b and Neisseria meningitidis; also Capnocytophaga canimorsus after dog exposure and severe Babesia or malaria. Mortality is roughly 40-50 percent, half within 48 hours.",
+  "domain": "immunodeficiency",
+  "id": 118
+ },
+ {
+  "chapter": 8,
+  "front": "What is the complete protective bundle for an asplenic patient?",
+  "back": "Pneumococcal, Hib, MenACWY (5-year boosters) plus MenB, and annual influenza vaccination; penicillin prophylaxis in children; a standby antibiotic taken at first fever while seeking emergency care; medical alert identification and counseling.",
+  "domain": "immunodeficiency",
+  "id": 119
+ },
+ {
+  "chapter": 8,
+  "front": "What timing rule governs vaccination around elective splenectomy?",
+  "back": "Vaccinate at least 14 days before elective splenectomy; after emergency splenectomy, wait 14 days postoperatively for better antibody responses.",
+  "domain": "immunodeficiency",
+  "id": 120
+ },
+ {
+  "chapter": 8,
+  "front": "At what corticosteroid dose and duration does infection risk rise substantially, with what consequences?",
+  "back": "Prednisone 20 mg or more daily for 2 weeks or longer: live vaccines contraindicated, Pneumocystis prophylaxis considered (especially with a second agent), fever blunted, perforation masked, and Strongyloides hyperinfection risk in exposed hosts.",
+  "domain": "immunodeficiency",
+  "id": 121
+ },
+ {
+  "chapter": 8,
+  "front": "State the signature infectious risk and required pre-treatment step for TNF inhibitors.",
+  "back": "Reactivation tuberculosis, often extrapulmonary or disseminated. Screen every candidate with an interferon-gamma release assay or TST plus chest radiograph before the first dose, and treat latent infection. Also watch histoplasmosis, Listeria, and hepatitis B.",
+  "domain": "immunodeficiency",
+  "id": 122
+ },
+ {
+  "chapter": 8,
+  "front": "What screening and prophylaxis rule governs rituximab and hepatitis B?",
+  "back": "Test HBsAg AND anti-HBc before the first dose. Positivity of either (including resolved infection) mandates entecavir or tenofovir prophylaxis through therapy and for 12-18 months afterward; reactivation can be fulminant.",
+  "domain": "immunodeficiency",
+  "id": 123
+ },
+ {
+  "chapter": 8,
+  "front": "What infectious precautions accompany eculizumab, and why is vaccination alone insufficient?",
+  "back": "C5 blockade raises meningococcal risk 1,000-2,000 fold: give MenACWY and MenB at least 2 weeks before starting, and add daily penicillin prophylaxis in many programs because vaccine breakthrough disease is well documented.",
+  "domain": "immunodeficiency",
+  "id": 124
+ },
+ {
+  "chapter": 8,
+  "front": "Define febrile neutropenia and its immediate empiric treatment.",
+  "back": "ANC under 500 (or under 1,000 falling below 500) plus a single oral temperature of 38.3 C or 38.0 C sustained one hour. Culture and start an antipseudomonal beta-lactam (cefepime, piperacillin-tazobactam, or meropenem) within one hour; vancomycin only for specific indications.",
+  "domain": "immunodeficiency",
+  "id": 125
+ },
+ {
+  "chapter": 8,
+  "front": "Match each stem cell transplant phase to its signature pathogens.",
+  "back": "Pre-engraftment (day 0-30): bacteria, Candida, HSV, then Aspergillus. Early post-engraftment (day 30-100): CMV, Pneumocystis, BK virus, molds with GVHD. Late (beyond day 100): encapsulated bacteria (pneumococcus) and VZV, driven by chronic GVHD.",
+  "domain": "immunodeficiency",
+  "id": 126
+ },
+ {
+  "chapter": 8,
+  "front": "Match each solid organ transplant window to its typical infections.",
+  "back": "Month 1: surgical, nosocomial, and donor-derived infections. Months 1-6: opportunists (CMV, Pneumocystis, BK nephropathy, EBV-driven PTLD, endemic fungi). Beyond 6 months: community pathogens plus Cryptococcus, Nocardia, and late CMV.",
+  "domain": "immunodeficiency",
+  "id": 127
+ },
+ {
+  "chapter": 8,
+  "front": "Why does CAR-T therapy cause prolonged hypogammaglobulinemia, and when is immunoglobulin replaced?",
+  "back": "Anti-CD19 CAR-T cells delete normal B cells (on-target, off-tumor aplasia), which can persist for months to years. Replace immunoglobulin for significant hypogammaglobulinemia, commonly IgG below 400 mg/dL with recurrent or serious infections.",
+  "domain": "immunodeficiency",
+  "id": 128
+ },
+ {
+  "chapter": 9,
+  "front": "What is the adult first-line drug and dose for anaphylaxis?",
+  "back": "Intramuscular epinephrine, 0.3 to 0.5 mg of the 1 mg/mL (1:1000) solution in the anterolateral thigh, repeated every 5 to 15 minutes as needed.",
+  "domain": "allergy_autoimmunity",
+  "id": 129
+ },
+ {
+  "chapter": 9,
+  "front": "What mechanism defines a Gell and Coombs type I reaction?",
+  "back": "Allergen cross-links IgE bound to FceRI on mast cells and basophils, triggering degranulation within minutes in a sensitized host.",
+  "domain": "allergy_autoimmunity",
+  "id": 130
+ },
+ {
+  "chapter": 9,
+  "front": "Which type IV subtype mediates SJS/TEN?",
+  "back": "Type IVc: cytotoxic CD8 T cells killing keratinocytes, with granulysin as a key effector molecule.",
+  "domain": "allergy_autoimmunity",
+  "id": 131
+ },
+ {
+  "chapter": 9,
+  "front": "How common are biphasic anaphylactic reactions and when do most occur?",
+  "back": "Roughly 5 percent of cases in most contemporary estimates, and most recurrences begin within 12 hours of the initial reaction.",
+  "domain": "allergy_autoimmunity",
+  "id": 132
+ },
+ {
+  "chapter": 9,
+  "front": "When should serum tryptase be drawn after suspected anaphylaxis, and what supports mast cell activation?",
+  "back": "Between 15 minutes and 3 hours after onset; an acute level above 1.2 times baseline plus 2 ng/mL supports mast cell activation.",
+  "domain": "allergy_autoimmunity",
+  "id": 133
+ },
+ {
+  "chapter": 9,
+  "front": "What clinical pattern suggests bradykinin-mediated rather than histaminergic angioedema?",
+  "back": "Swelling without urticaria or itch, evolving over hours and lasting days, unresponsive to epinephrine, antihistamines, and corticosteroids.",
+  "domain": "allergy_autoimmunity",
+  "id": 134
+ },
+ {
+  "chapter": 9,
+  "front": "What is the screening test for hereditary angioedema?",
+  "back": "Complement C4, which is low during and usually between attacks; C1 inhibitor level and functional assay confirm the diagnosis.",
+  "domain": "allergy_autoimmunity",
+  "id": 135
+ },
+ {
+  "chapter": 9,
+  "front": "Which biologic blocks both IL-4 and IL-13, and how?",
+  "back": "Dupilumab, by binding the IL-4 receptor alpha subunit shared by the IL-4 and IL-13 receptor complexes.",
+  "domain": "allergy_autoimmunity",
+  "id": 136
+ },
+ {
+  "chapter": 9,
+  "front": "What did the LEAP trial show about early peanut introduction?",
+  "back": "In 640 high-risk infants, regular peanut consumption from 4 to 11 months cut peanut allergy at age 5 by more than 80 percent relative to avoidance.",
+  "domain": "allergy_autoimmunity",
+  "id": 137
+ },
+ {
+  "chapter": 9,
+  "front": "What fraction of patients with a penicillin allergy label tolerate penicillins on formal evaluation?",
+  "back": "More than 95 percent; about 80 percent of truly IgE-allergic patients lose skin test reactivity within 10 years.",
+  "domain": "allergy_autoimmunity",
+  "id": 138
+ },
+ {
+  "chapter": 9,
+  "front": "What determines penicillin-cephalosporin cross-reactivity?",
+  "back": "Similarity of the R1 side chain, not the shared beta-lactam ring; overall cross-reactivity is near 2 percent, and cefazolin's unique side chain makes it broadly safe.",
+  "domain": "allergy_autoimmunity",
+  "id": 139
+ },
+ {
+  "chapter": 9,
+  "front": "Name the latency and hallmark features of DRESS.",
+  "back": "Onset 2 to 8 weeks after the culprit drug, with fever, facial edema, confluent morbilliform rash, lymphadenopathy, eosinophilia, and visceral involvement, most often hepatitis.",
+  "domain": "allergy_autoimmunity",
+  "id": 140
+ },
+ {
+  "chapter": 9,
+  "front": "Which HLA allele mandates screening before carbamazepine in Han Chinese and Southeast Asian patients?",
+  "back": "HLA-B*15:02, which predicts carbamazepine-induced SJS/TEN.",
+  "domain": "allergy_autoimmunity",
+  "id": 141
+ },
+ {
+  "chapter": 9,
+  "front": "How does drug desensitization differ from a graded challenge?",
+  "back": "Desensitization induces temporary mast cell unresponsiveness in a truly allergic patient and lapses days after dosing stops; a graded challenge only verifies tolerance in a patient judged not allergic.",
+  "domain": "allergy_autoimmunity",
+  "id": 142
+ },
+ {
+  "chapter": 9,
+  "front": "What must be checked before giving corticosteroids to an eosinophilic patient with plausible exposure?",
+  "back": "Strongyloides serology, because steroids can convert latent infection into fatal hyperinfection while masking the eosinophilia.",
+  "domain": "allergy_autoimmunity",
+  "id": 143
+ },
+ {
+  "chapter": 9,
+  "front": "What causes alpha-gal syndrome and what is its signature timing?",
+  "back": "IgE against galactose-alpha-1,3-galactose after lone star tick (Amblyomma americanum) bites, causing reactions 3 to 6 hours after eating mammalian meat.",
+  "domain": "allergy_autoimmunity",
+  "id": 144
+ },
+ {
+  "chapter": 10,
+  "front": "What disease results from loss-of-function AIRE mutations?",
+  "back": "Autoimmune polyendocrine syndrome type 1 (APS-1): chronic mucocutaneous candidiasis, hypoparathyroidism, and adrenal insufficiency, from failed thymic display of peripheral self-antigens.",
+  "domain": "allergy_autoimmunity",
+  "id": 145
+ },
+ {
+  "chapter": 10,
+  "front": "Which gene is mutated in IPEX syndrome and what does it control?",
+  "back": "FOXP3, the master transcription factor of regulatory T cells; its loss causes immune dysregulation, polyendocrinopathy, and enteropathy, X-linked.",
+  "domain": "allergy_autoimmunity",
+  "id": 146
+ },
+ {
+  "chapter": 10,
+  "front": "What are the two canonical molecular mimicry examples in autoimmunity?",
+  "back": "Rheumatic fever (streptococcal M protein cross-reacting with cardiac myosin) and Guillain-Barre syndrome (Campylobacter lipooligosaccharide cross-reacting with GM1 ganglioside).",
+  "domain": "allergy_autoimmunity",
+  "id": 147
+ },
+ {
+  "chapter": 10,
+  "front": "How often is the ANA positive in healthy adults?",
+  "back": "Roughly 25 to 30 percent at a 1:40 titer and about 5 percent at 1:160, which is why low-titer positivity without objective findings is usually noise.",
+  "domain": "allergy_autoimmunity",
+  "id": 148
+ },
+ {
+  "chapter": 10,
+  "front": "Which two autoantibodies are specific for SLE?",
+  "back": "Anti-dsDNA and anti-Sm; anti-dsDNA titers often track disease activity, especially nephritis, alongside falling C3 and C4.",
+  "domain": "allergy_autoimmunity",
+  "id": 149
+ },
+ {
+  "chapter": 10,
+  "front": "Which antibody dominates in drug-induced lupus?",
+  "back": "Anti-histone antibodies; the syndrome typically spares kidney and brain and resolves after stopping hydralazine, procainamide, isoniazid, minocycline, or an anti-TNF agent.",
+  "domain": "allergy_autoimmunity",
+  "id": 150
+ },
+ {
+  "chapter": 10,
+  "front": "Pair the ANCA specificities with their vasculitides.",
+  "back": "PR3 (c-ANCA) with granulomatosis with polyangiitis; MPO (p-ANCA) with microscopic polyangiitis and about 40 percent of eosinophilic granulomatosis with polyangiitis.",
+  "domain": "allergy_autoimmunity",
+  "id": 151
+ },
+ {
+  "chapter": 10,
+  "front": "How do rheumatoid factor and anti-CCP compare in rheumatoid arthritis?",
+  "back": "Both are about 70 percent sensitive, but anti-CCP is roughly 95 percent specific, precedes disease by years, and predicts erosive arthritis; rheumatoid factor also rises in hepatitis C, endocarditis, and Sjogren disease.",
+  "domain": "allergy_autoimmunity",
+  "id": 152
+ },
+ {
+  "chapter": 10,
+  "front": "What laboratory persistence rule applies to antiphospholipid syndrome?",
+  "back": "Lupus anticoagulant, anticardiolipin, or anti-beta-2 glycoprotein I must be confirmed at least 12 weeks after the first positive, since infections cause transient positivity.",
+  "domain": "allergy_autoimmunity",
+  "id": 153
+ },
+ {
+  "chapter": 10,
+  "front": "In a febrile lupus patient, which pattern favors infection over flare?",
+  "back": "Sharply elevated CRP with stable complement and stable anti-dsDNA, plus rigors or focal findings; falling C3/C4 with rising anti-dsDNA favors flare.",
+  "domain": "allergy_autoimmunity",
+  "id": 154
+ },
+ {
+  "chapter": 10,
+  "front": "Which scleroderma antibodies predict which phenotypes?",
+  "back": "Anticentromere: limited disease with late pulmonary arterial hypertension. Anti-topoisomerase I (Scl-70): diffuse disease with interstitial lung disease. Anti-RNA polymerase III: renal crisis and cancer association.",
+  "domain": "allergy_autoimmunity",
+  "id": 155
+ },
+ {
+  "chapter": 10,
+  "front": "What is the anti-MDA5 dermatomyositis phenotype?",
+  "back": "Amyopathic or minimally myopathic disease with skin ulceration and rapidly progressive interstitial lung disease, often with near-normal creatine kinase.",
+  "domain": "allergy_autoimmunity",
+  "id": 156
+ },
+ {
+  "chapter": 10,
+  "front": "How does immunofluorescence sort small-vessel glomerulonephritis?",
+  "back": "Pauci-immune points to ANCA-associated vasculitis, granular deposits to immune complex disease (lupus, IgA, cryoglobulinemia), and linear staining to anti-GBM disease.",
+  "domain": "allergy_autoimmunity",
+  "id": 157
+ },
+ {
+  "chapter": 10,
+  "front": "What histologic triad defines IgG4-related disease?",
+  "back": "Dense lymphoplasmacytic infiltrate rich in IgG4-positive plasma cells, storiform fibrosis, and obliterative phlebitis; serum IgG4 is neither sensitive nor specific.",
+  "domain": "allergy_autoimmunity",
+  "id": 158
+ },
+ {
+  "chapter": 10,
+  "front": "What defines significant immunosuppression that contraindicates live vaccines?",
+  "back": "Conventionally, prednisone 20 mg daily or more for 2 weeks or longer, biologic therapy, or treatment-dose conventional immunosuppressives; give needed live vaccines at least 4 weeks before starting.",
+  "domain": "allergy_autoimmunity",
+  "id": 159
+ },
+ {
+  "chapter": 10,
+  "front": "How should vaccination be timed around rituximab?",
+  "back": "Vaccinate at least 2 to 4 weeks before an infusion or wait roughly 5 to 6 months after one, because B cell depletion blunts antibody responses.",
+  "domain": "allergy_autoimmunity",
+  "id": 160
+ },
+ {
+  "chapter": 11,
+  "front": "Which organs weight HLA matching most and least heavily?",
+  "back": "Matching matters most in hematopoietic transplantation (8/8 allele-level minimum at HLA-A, B, C, DRB1), meaningfully in kidney, and is not routinely performed for liver.",
+  "domain": "transplant_immunotherapy",
+  "id": 161
+ },
+ {
+  "chapter": 11,
+  "front": "What does a positive T-cell complement-dependent cytotoxicity crossmatch mean before kidney transplant?",
+  "back": "The recipient has preformed donor-specific antibody against donor class I HLA; it predicts hyperacute rejection and is an absolute contraindication to standard kidney transplantation.",
+  "domain": "transplant_immunotherapy",
+  "id": 162
+ },
+ {
+  "chapter": 11,
+  "front": "What does a calculated PRA (cPRA) of 90 percent represent?",
+  "back": "Ninety percent of donors in the population carry at least one HLA antigen against which the recipient has antibodies, so nine of ten offers are immunologically incompatible.",
+  "domain": "transplant_immunotherapy",
+  "id": 163
+ },
+ {
+  "chapter": 11,
+  "front": "Contrast direct and indirect allorecognition.",
+  "back": "Direct: recipient T cells recognize intact donor HLA on donor passenger dendritic cells; dominates early and drives acute cellular rejection. Indirect: recipient APCs present processed donor peptide to CD4 cells; drives alloantibody and chronic rejection.",
+  "domain": "transplant_immunotherapy",
+  "id": 164
+ },
+ {
+  "chapter": 11,
+  "front": "What is the biopsy picture of hyperacute rejection and its treatment?",
+  "back": "Fibrin thrombi, neutrophil margination, and cortical necrosis without lymphocytes, within minutes to hours of reperfusion; no effective treatment exists and the graft is removed.",
+  "domain": "transplant_immunotherapy",
+  "id": 165
+ },
+ {
+  "chapter": 11,
+  "front": "What three elements make the Banff diagnosis of antibody-mediated rejection?",
+  "back": "Histologic acute tissue injury (glomerulitis, peritubular capillaritis), evidence of antibody-endothelium interaction (classically C4d in peritubular capillaries), and detectable donor-specific antibody.",
+  "domain": "transplant_immunotherapy",
+  "id": 166
+ },
+ {
+  "chapter": 11,
+  "front": "How do tacrolimus and cyclosporine block T cell activation?",
+  "back": "Tacrolimus binds FKBP-12 and cyclosporine binds cyclophilin; each complex inhibits calcineurin, so NFAT stays phosphorylated, cannot enter the nucleus, and IL-2 transcription fails.",
+  "domain": "transplant_immunotherapy",
+  "id": 167
+ },
+ {
+  "chapter": 11,
+  "front": "Name toxicities that distinguish tacrolimus from cyclosporine.",
+  "back": "Tacrolimus: more tremor, neurotoxicity up to PRES, alopecia, post-transplant diabetes. Cyclosporine: gingival hyperplasia, hirsutism, more dyslipidemia and hyperuricemia. Both: nephrotoxicity, hypertension, hyperkalemia, hypomagnesemia.",
+  "domain": "transplant_immunotherapy",
+  "id": 168
+ },
+ {
+  "chapter": 11,
+  "front": "Why is belatacept contraindicated in EBV-seronegative recipients?",
+  "back": "EBV-naive recipients on belatacept had markedly increased primary central nervous system post-transplant lymphoproliferative disorder, so seropositivity is required before use.",
+  "domain": "transplant_immunotherapy",
+  "id": 169
+ },
+ {
+  "chapter": 11,
+  "front": "Outline the three windows of the post-transplant infection timeline.",
+  "back": "Month one: surgical and donor-derived infections. Months one to six: opportunists (CMV, Pneumocystis, BK, Nocardia, Listeria, Toxoplasma). Beyond six months: community pathogens, unless immunosuppression stays high; depleting rejection therapy resets the clock.",
+  "domain": "transplant_immunotherapy",
+  "id": 170
+ },
+ {
+  "chapter": 11,
+  "front": "Which CMV serostatus pairing is highest risk in solid organ transplant, and how is it prevented?",
+  "back": "Donor-positive, recipient-negative (D+/R-); prevented with valganciclovir prophylaxis for three to six months or preemptive weekly PCR monitoring; letermovir is approved for D+/R- kidney recipients.",
+  "domain": "transplant_immunotherapy",
+  "id": 171
+ },
+ {
+  "chapter": 11,
+  "front": "When is late-onset CMV disease most likely to appear?",
+  "back": "In the weeks to months after valganciclovir prophylaxis stops, classically months seven through twelve in D+/R- recipients who never built CMV-specific T cell immunity.",
+  "domain": "transplant_immunotherapy",
+  "id": 172
+ },
+ {
+  "chapter": 11,
+  "front": "What is the first step in treating post-transplant lymphoproliferative disorder?",
+  "back": "Reduction of immunosuppression, which alone induces remission in a substantial minority; rituximab is added for CD20-positive disease, then chemotherapy for monomorphic or refractory disease.",
+  "domain": "transplant_immunotherapy",
+  "id": 173
+ },
+ {
+  "chapter": 11,
+  "front": "How is BK polyomavirus nephropathy distinguished from rejection, and how is it treated?",
+  "back": "Biopsy shows intranuclear inclusions with positive SV40 large T antigen staining; treatment is stepwise reduction of immunosuppression (antiproliferative first), never intensification, and no antiviral has proven efficacy.",
+  "domain": "transplant_immunotherapy",
+  "id": 174
+ },
+ {
+  "chapter": 11,
+  "front": "What are the three classic target organs of acute graft-versus-host disease?",
+  "back": "Skin (maculopapular rash starting on palms, soles, ears), liver (cholestatic hyperbilirubinemia), and gut (high-volume secretory diarrhea with crypt apoptosis on biopsy).",
+  "domain": "transplant_immunotherapy",
+  "id": 175
+ },
+ {
+  "chapter": 11,
+  "front": "What single observation most directly proves the graft-versus-leukemia effect?",
+  "back": "Donor lymphocyte infusion alone, without chemotherapy, can induce durable molecular remission in relapsed chronic myeloid leukemia, showing alloreactive immune cells eradicate leukemia.",
+  "domain": "transplant_immunotherapy",
+  "id": 176
+ },
+ {
+  "chapter": 12,
+  "front": "Decode the antibody name infixes -ximab, -zumab, and -umab.",
+  "back": "-ximab is chimeric (murine variable region on human constant region), -zumab is humanized (only murine CDRs), -umab is fully human; immunogenicity falls with each step.",
+  "domain": "transplant_immunotherapy",
+  "id": 177
+ },
+ {
+  "chapter": 12,
+  "front": "Why is certolizumab pegol the preferred TNF inhibitor in pregnancy?",
+  "back": "It is a pegylated Fab fragment with no Fc region, so the neonatal Fc receptor cannot actively transport it across the placenta; transfer is minimal.",
+  "domain": "transplant_immunotherapy",
+  "id": 178
+ },
+ {
+  "chapter": 12,
+  "front": "What screening precedes TNF inhibitor therapy?",
+  "back": "Latent tuberculosis testing (IGRA or TST), hepatitis B surface antigen and core antibody, hepatitis C antibody, and bringing vaccinations current, with live vaccines given before therapy starts.",
+  "domain": "transplant_immunotherapy",
+  "id": 179
+ },
+ {
+  "chapter": 12,
+  "front": "Name three noninfectious situations where TNF inhibitors are avoided or cause harm.",
+  "back": "They can induce a reversible lupus-like syndrome, can worsen demyelinating disease (avoid in multiple sclerosis), and are contraindicated in NYHA class III-IV heart failure.",
+  "domain": "transplant_immunotherapy",
+  "id": 180
+ },
+ {
+  "chapter": 12,
+  "front": "Why can tocilizumab mask a bowel perforation?",
+  "back": "IL-6 blockade suppresses the hepatic acute phase response, so CRP stays flat and symptoms are blunted; lower intestinal perforation is a signature toxicity, especially with diverticular disease and steroids.",
+  "domain": "transplant_immunotherapy",
+  "id": 181
+ },
+ {
+  "chapter": 12,
+  "front": "What infection follows IL-17 blockade, and why?",
+  "back": "Mucocutaneous candidiasis, usually mild, because the Th17 axis defends skin and mucosal surfaces against fungi, echoing genetic chronic mucocutaneous candidiasis.",
+  "domain": "transplant_immunotherapy",
+  "id": 182
+ },
+ {
+  "chapter": 12,
+  "front": "Which biologic class is avoided in coexisting inflammatory bowel disease, and which related class treats it?",
+  "back": "IL-17 inhibitors can worsen or unmask inflammatory bowel disease; IL-23 blockade (ustekinumab, risankizumab) treats Crohn disease.",
+  "domain": "transplant_immunotherapy",
+  "id": 183
+ },
+ {
+  "chapter": 12,
+  "front": "What did ORAL Surveillance show, and what warnings followed?",
+  "back": "In rheumatoid arthritis patients over 50 with cardiovascular risk, tofacitinib showed more major cardiovascular events, malignancy, thrombosis, and death than TNF inhibitors; boxed warnings now cover the oral JAK inhibitor class.",
+  "domain": "transplant_immunotherapy",
+  "id": 184
+ },
+ {
+  "chapter": 12,
+  "front": "What is the signature infection of JAK inhibitors, and of ibrutinib?",
+  "back": "JAK inhibitors: herpes zoster (vaccinate with recombinant zoster vaccine). Ibrutinib: invasive fungal disease, notably aspergillosis including cerebral aspergillosis, plus atrial fibrillation and bleeding as off-target effects.",
+  "domain": "transplant_immunotherapy",
+  "id": 185
+ },
+ {
+  "chapter": 12,
+  "front": "Where do CTLA-4 and PD-1 act as immune checkpoints?",
+  "back": "CTLA-4 restrains T cell priming in lymph nodes by outcompeting CD28 for CD80/86; PD-1 and PD-L1 restrain exhausted effector T cells in peripheral tissue and tumor.",
+  "domain": "transplant_immunotherapy",
+  "id": 186
+ },
+ {
+  "chapter": 12,
+  "front": "How are grade 3 to 4 immune-related adverse events managed, and what is the endocrine exception?",
+  "back": "Stop the checkpoint inhibitor and give 1 to 2 mg/kg corticosteroids, adding infliximab for steroid-refractory colitis; endocrinopathies are managed with hormone replacement, are usually permanent, and rarely require stopping therapy.",
+  "domain": "transplant_immunotherapy",
+  "id": 187
+ },
+ {
+  "chapter": 12,
+  "front": "What four domains make up a CAR construct?",
+  "back": "An extracellular single-chain variable fragment (scFv) for antigen binding, a hinge/transmembrane segment, a costimulatory domain (CD28 or 4-1BB), and the CD3-zeta activation domain; killing is HLA-independent.",
+  "domain": "transplant_immunotherapy",
+  "id": 188
+ },
+ {
+  "chapter": 12,
+  "front": "How is cytokine release syndrome graded and treated?",
+  "back": "ASTCT grading uses fever, hypotension, and hypoxia: grade 1 fever alone, grade 3 vasopressor or high-flow oxygen need. Tocilizumab is the specific antidote, with corticosteroids for refractory or high-grade disease.",
+  "domain": "transplant_immunotherapy",
+  "id": 189
+ },
+ {
+  "chapter": 12,
+  "front": "Why is ICANS treated with corticosteroids rather than tocilizumab?",
+  "back": "IL-6 receptor blockade penetrates the central nervous system poorly; ICANS is scored with the ICE tool and treated with corticosteroids such as dexamethasone.",
+  "domain": "transplant_immunotherapy",
+  "id": 190
+ },
+ {
+  "chapter": 12,
+  "front": "Name the two dose tiers of IVIG and one indication for each.",
+  "back": "Replacement at roughly 400 to 600 mg/kg monthly for hypogammaglobulinemia; immunomodulation at 2 g/kg for immune thrombocytopenia, Kawasaki disease, or Guillain-Barre syndrome.",
+  "domain": "transplant_immunotherapy",
+  "id": 191
+ },
+ {
+  "chapter": 12,
+  "front": "Why did the mRNA vaccine platform need N1-methylpseudouridine?",
+  "back": "Modified nucleosides prevent recognition of synthetic mRNA by innate RNA sensors (TLR7/8, RIG-I), avoiding translational shutdown and excessive inflammation; the Kariko-Weissman discovery earned the 2023 Nobel Prize.",
+  "domain": "transplant_immunotherapy",
+  "id": 192
+ },
+ {
+  "chapter": 13,
+  "front": "How does Sepsis-3 define sepsis?",
+  "back": "Life-threatening organ dysfunction caused by a dysregulated host response to infection, operationalized as an acute rise of 2 or more SOFA points.",
+  "domain": "bacterial_diseases",
+  "id": 193
+ },
+ {
+  "chapter": 13,
+  "front": "What two criteria must both be met to define septic shock?",
+  "back": "A vasopressor requirement to maintain mean arterial pressure at 65 mm Hg or above, plus a serum lactate above 2 mmol/L despite adequate fluid resuscitation.",
+  "domain": "bacterial_diseases",
+  "id": 194
+ },
+ {
+  "chapter": 13,
+  "front": "What happened to the category of severe sepsis under Sepsis-3?",
+  "back": "It was eliminated. Sepsis itself is now the severe entity, and only sepsis and septic shock remain as categories.",
+  "domain": "bacterial_diseases",
+  "id": 195
+ },
+ {
+  "chapter": 13,
+  "front": "What are the three qSOFA criteria, and what is the main limitation?",
+  "back": "Respiratory rate 22 or higher, systolic pressure 100 mm Hg or lower, and altered mentation. It is specific but insensitive, so guidelines advise against using it as the sole screen.",
+  "domain": "bacterial_diseases",
+  "id": 196
+ },
+ {
+  "chapter": 13,
+  "front": "List the elements of the hour-1 sepsis bundle.",
+  "back": "Measure lactate (and remeasure if above 2 mmol/L), draw blood cultures before antibiotics, give broad-spectrum antibiotics, infuse 30 mL/kg crystalloid for hypotension or lactate 4 mmol/L or more, and start vasopressors for a MAP below 65 mm Hg.",
+  "domain": "bacterial_diseases",
+  "id": 197
+ },
+ {
+  "chapter": 13,
+  "front": "Why is hyperlactatemia in sepsis not purely a marker of anaerobic metabolism?",
+  "back": "Much of it comes from catecholamine-driven aerobic glycolysis, impaired hepatic clearance, and mitochondrial dysfunction, yet it still predicts mortality independently of blood pressure.",
+  "domain": "bacterial_diseases",
+  "id": 198
+ },
+ {
+  "chapter": 13,
+  "front": "What is the first-line vasopressor in septic shock and the target mean arterial pressure?",
+  "back": "Norepinephrine, titrated to a mean arterial pressure of 65 mm Hg; targeting 80 to 85 mm Hg did not improve survival in SEPSISPAM.",
+  "domain": "bacterial_diseases",
+  "id": 199
+ },
+ {
+  "chapter": 13,
+  "front": "When is hydrocortisone added in septic shock, and what dose?",
+  "back": "200 mg per day when norepinephrine requirement persists above roughly 0.25 micrograms per kilogram per minute for at least four hours; cosyntropin testing should not be used to select patients.",
+  "domain": "bacterial_diseases",
+  "id": 200
+ },
+ {
+  "chapter": 13,
+  "front": "Name the elements of the Staphylococcus aureus bacteremia bundle of care.",
+  "back": "Repeat blood cultures every 48 to 72 hours until clearance, echocardiography, early source control including line removal, appropriate intravenous therapy, and infectious diseases consultation.",
+  "domain": "bacterial_diseases",
+  "id": 201
+ },
+ {
+  "chapter": 13,
+  "front": "How long is uncomplicated versus complicated Staphylococcus aureus bacteremia treated?",
+  "back": "Uncomplicated disease gets a minimum of 14 days of intravenous therapy from the first negative blood culture; complicated disease gets 4 to 6 weeks.",
+  "domain": "bacterial_diseases",
+  "id": 202
+ },
+ {
+  "chapter": 13,
+  "front": "What differential time to positivity establishes catheter-related bloodstream infection?",
+  "back": "The catheter-drawn culture turning positive at least 2 hours before the peripherally drawn culture with the same organism.",
+  "domain": "bacterial_diseases",
+  "id": 203
+ },
+ {
+  "chapter": 13,
+  "front": "For which organisms must a central catheter always be removed?",
+  "back": "Staphylococcus aureus, Pseudomonas aeruginosa, Candida species, and mycobacteria, plus any organism with severe sepsis, suppurative thrombophlebitis, tunnel infection, or persistent bacteremia.",
+  "domain": "bacterial_diseases",
+  "id": 204
+ },
+ {
+  "chapter": 13,
+  "front": "Which blood culture isolates are usually contaminants?",
+  "back": "Coagulase-negative staphylococci, Cutibacterium acnes, Micrococcus, Bacillus species other than anthracis, and Corynebacterium species (diphtheroids).",
+  "domain": "bacterial_diseases",
+  "id": 205
+ },
+ {
+  "chapter": 13,
+  "front": "What are the five management principles of candidemia?",
+  "back": "Start an echinocandin, remove central catheters early, obtain a dilated eye examination, repeat cultures every one to two days, and treat 14 days after the first negative culture.",
+  "domain": "bacterial_diseases",
+  "id": 206
+ },
+ {
+  "chapter": 13,
+  "front": "How long can uncomplicated gram-negative bacteremia with a controlled source be treated?",
+  "back": "Seven days, based on randomized trials showing equivalence to 14 days, usually with early step-down to an oral agent.",
+  "domain": "bacterial_diseases",
+  "id": 207
+ },
+ {
+  "chapter": 13,
+  "front": "What does a rising SOFA score of 2 points imply about mortality risk?",
+  "back": "An overall mortality near 10 percent, a risk comparable to acute myocardial infarction, which is why it defines sepsis and demands urgency.",
+  "domain": "bacterial_diseases",
+  "id": 208
+ },
+ {
+  "chapter": 14,
+  "front": "What gene and protein confer methicillin resistance in Staphylococcus aureus?",
+  "back": "mecA, carried on SCCmec, encoding penicillin-binding protein 2a, a transpeptidase with low affinity for essentially all beta-lactams.",
+  "domain": "bacterial_diseases",
+  "id": 209
+ },
+ {
+  "chapter": 14,
+  "front": "Which cephalosporin is active against MRSA and why?",
+  "back": "Ceftaroline, because it was engineered to bind penicillin-binding protein 2a directly.",
+  "domain": "bacterial_diseases",
+  "id": 210
+ },
+ {
+  "chapter": 14,
+  "front": "How does TSST-1 cause toxic shock syndrome?",
+  "back": "It acts as a superantigen, crosslinking MHC class II to the T cell receptor beta chain outside the peptide groove and activating a large fraction of the T cell repertoire at once.",
+  "domain": "bacterial_diseases",
+  "id": 211
+ },
+ {
+  "chapter": 14,
+  "front": "What molecule do staphylococcal exfoliative toxins cleave in scalded skin syndrome?",
+  "back": "Desmoglein-1 in the superficial epidermis, producing flaccid bullae with a positive Nikolsky sign and intact mucous membranes.",
+  "domain": "bacterial_diseases",
+  "id": 212
+ },
+ {
+  "chapter": 14,
+  "front": "Why must daptomycin never be used for primary pneumonia?",
+  "back": "Pulmonary surfactant sequesters and inactivates it in the alveolar space, although hematogenous septic pulmonary emboli still respond.",
+  "domain": "bacterial_diseases",
+  "id": 213
+ },
+ {
+  "chapter": 14,
+  "front": "What vancomycin dosing target has replaced trough monitoring?",
+  "back": "An area-under-the-curve to MIC ratio of 400 to 600, adopted specifically to reduce nephrotoxicity while preserving efficacy.",
+  "domain": "bacterial_diseases",
+  "id": 214
+ },
+ {
+  "chapter": 14,
+  "front": "Which coagulase-negative Staphylococcus behaves like Staphylococcus aureus?",
+  "back": "Staphylococcus lugdunensis, which causes aggressive native valve endocarditis and is managed with the same seriousness as S. aureus bacteremia.",
+  "domain": "bacterial_diseases",
+  "id": 215
+ },
+ {
+  "chapter": 14,
+  "front": "Why is clindamycin added to penicillin in necrotizing fasciitis?",
+  "back": "It suppresses exotoxin and M protein synthesis and stays active against high-inoculum stationary-phase organisms where penicillin-binding protein expression falls (the Eagle effect).",
+  "domain": "bacterial_diseases",
+  "id": 216
+ },
+ {
+  "chapter": 14,
+  "front": "How do rheumatic fever and poststreptococcal glomerulonephritis differ in antecedent infection?",
+  "back": "Rheumatic fever follows pharyngitis only and is prevented by treatment; glomerulonephritis follows pharyngitis or impetigo and is not prevented by treatment.",
+  "domain": "bacterial_diseases",
+  "id": 217
+ },
+ {
+  "chapter": 14,
+  "front": "What is the mechanism of pneumococcal penicillin resistance?",
+  "back": "Mosaic alterations of penicillin-binding proteins acquired by transformation, not beta-lactamase, so adding a beta-lactamase inhibitor gains nothing.",
+  "domain": "bacterial_diseases",
+  "id": 218
+ },
+ {
+  "chapter": 14,
+  "front": "What is the preferred regimen for Enterococcus faecalis endocarditis and why?",
+  "back": "Ampicillin plus ceftriaxone, which saturates complementary penicillin-binding proteins and matches ampicillin-gentamicin synergy without nephrotoxicity.",
+  "domain": "bacterial_diseases",
+  "id": 219
+ },
+ {
+  "chapter": 14,
+  "front": "What molecular change produces vanA-mediated vancomycin resistance?",
+  "back": "Remodeling of the peptidoglycan terminus from D-alanyl-D-alanine to D-alanyl-D-lactate, which vancomycin binds poorly.",
+  "domain": "bacterial_diseases",
+  "id": 220
+ },
+ {
+  "chapter": 14,
+  "front": "Why is ampicillin added to empiric meningitis therapy in older and immunocompromised adults?",
+  "back": "All cephalosporins are inert against Listeria monocytogenes, so only ampicillin covers it.",
+  "domain": "bacterial_diseases",
+  "id": 221
+ },
+ {
+  "chapter": 14,
+  "front": "What is first-line therapy for an initial episode of Clostridioides difficile infection?",
+  "back": "Fidaxomicin 200 mg twice daily for 10 days, which spares the anaerobic microbiota and roughly halves recurrence compared with oral vancomycin.",
+  "domain": "bacterial_diseases",
+  "id": 222
+ },
+ {
+  "chapter": 14,
+  "front": "How do C. difficile toxins A and B injure the colonocyte?",
+  "back": "They glucosylate Rho family GTPases, collapsing the actin cytoskeleton and producing the inflammatory pseudomembrane.",
+  "domain": "bacterial_diseases",
+  "id": 223
+ },
+ {
+  "chapter": 14,
+  "front": "How do Nocardia and Actinomyces differ in oxygen requirement, staining, and treatment?",
+  "back": "Nocardia is aerobic and weakly acid-fast, treated with sulfonamide-based combinations; Actinomyces is anaerobic and not acid-fast, forms sulfur granules in sinus tracts, and is treated with prolonged penicillin.",
+  "domain": "bacterial_diseases",
+  "id": 224
+ },
+ {
+  "chapter": 15,
+  "front": "Which organisms carry inducible chromosomal AmpC, and what is the treatment implication?",
+  "back": "Enterobacter cloacae complex, Klebsiella aerogenes, Citrobacter freundii, and Serratia marcescens. Avoid ceftriaxone for serious infection even if susceptible, and use cefepime or a carbapenem.",
+  "domain": "bacterial_diseases",
+  "id": 225
+ },
+ {
+  "chapter": 15,
+  "front": "What did the MERINO trial establish about ESBL bacteremia?",
+  "back": "Piperacillin-tazobactam had numerically higher 30-day mortality than meropenem, so carbapenems remain the treatment of choice for serious ESBL infection.",
+  "domain": "bacterial_diseases",
+  "id": 226
+ },
+ {
+  "chapter": 15,
+  "front": "Which agents treat a KPC-producing carbapenem-resistant organism?",
+  "back": "Ceftazidime-avibactam, meropenem-vaborbactam, or imipenem-relebactam, since KPC is a serine (class A) enzyme inhibited by all three.",
+  "domain": "bacterial_diseases",
+  "id": 227
+ },
+ {
+  "chapter": 15,
+  "front": "How is a metallo-beta-lactamase producer such as NDM treated?",
+  "back": "Cefiderocol, or ceftazidime-avibactam plus aztreonam, since aztreonam evades the zinc enzyme while avibactam protects it from co-carried serine enzymes.",
+  "domain": "bacterial_diseases",
+  "id": 228
+ },
+ {
+  "chapter": 15,
+  "front": "Which inhibitor combination covers OXA-48-like carbapenemases?",
+  "back": "Only ceftazidime-avibactam among the newer combinations; meropenem-vaborbactam and imipenem-relebactam do not cover OXA-48.",
+  "domain": "bacterial_diseases",
+  "id": 229
+ },
+ {
+  "chapter": 15,
+  "front": "How does cefiderocol enter the bacterial cell?",
+  "back": "It is a siderophore cephalosporin actively imported through bacterial iron transport systems, a Trojan horse mechanism, and it is stable to all three carbapenemase classes.",
+  "domain": "bacterial_diseases",
+  "id": 230
+ },
+ {
+  "chapter": 15,
+  "front": "Which beta-lactams never cover Pseudomonas aeruginosa?",
+  "back": "Ceftriaxone and ertapenem. Reliable antipseudomonal choices include piperacillin-tazobactam, ceftazidime, cefepime, meropenem, and imipenem.",
+  "domain": "bacterial_diseases",
+  "id": 231
+ },
+ {
+  "chapter": 15,
+  "front": "Why is Stenotrophomonas maltophilia intrinsically carbapenem-resistant, and what treats it?",
+  "back": "It carries a chromosomal L1 metallo-beta-lactamase plus the L2 cephalosporinase; trimethoprim-sulfamethoxazole is the treatment of choice.",
+  "domain": "bacterial_diseases",
+  "id": 232
+ },
+ {
+  "chapter": 15,
+  "front": "What is the preferred therapy for serious carbapenem-resistant Acinetobacter baumannii infection?",
+  "back": "Sulbactam-durlobactam, often combined with a carbapenem, with cefiderocol, minocycline, and polymyxins as alternatives.",
+  "domain": "bacterial_diseases",
+  "id": 233
+ },
+ {
+  "chapter": 15,
+  "front": "Which host defect most raises the risk of invasive Neisseria infection?",
+  "back": "Deficiency of terminal complement components C5 through C9, properdin deficiency, or pharmacologic blockade with eculizumab or ravulizumab; screen with a CH50.",
+  "domain": "bacterial_diseases",
+  "id": 234
+ },
+ {
+  "chapter": 15,
+  "front": "What is the current recommended treatment for uncomplicated gonorrhea?",
+  "back": "Ceftriaxone 500 mg intramuscularly as a single dose (1 g at body weight 150 kg or more), with doxycycline added only if chlamydia has not been excluded.",
+  "domain": "bacterial_diseases",
+  "id": 235
+ },
+ {
+  "chapter": 15,
+  "front": "When should nontyphoidal Salmonella gastroenteritis be treated with antibiotics?",
+  "back": "Severe disease or bacteremia, infants under about 3 months, adults over 50, hemoglobinopathy, and immunocompromise; otherwise antibiotics prolong carriage without shortening illness.",
+  "domain": "bacterial_diseases",
+  "id": 236
+ },
+ {
+  "chapter": 15,
+  "front": "How does Campylobacter jejuni trigger Guillain-Barre syndrome?",
+  "back": "Its lipooligosaccharide mimics GM1 gangliosides, so antibodies raised against the organism cross-react with peripheral nerve, particularly in axonal variants.",
+  "domain": "bacterial_diseases",
+  "id": 237
+ },
+ {
+  "chapter": 15,
+  "front": "Which hosts are at highest risk from Vibrio vulnificus, and how is it treated?",
+  "back": "Patients with cirrhosis, hemochromatosis, or other iron-overloaded states; treatment is doxycycline plus ceftriaxone with prompt surgical debridement.",
+  "domain": "bacterial_diseases",
+  "id": 238
+ },
+ {
+  "chapter": 15,
+  "front": "Which agents reliably cover Bacteroides fragilis?",
+  "back": "Metronidazole, carbapenems, and beta-lactam/beta-lactamase inhibitor combinations; clindamycin is no longer reliable and essentially all isolates produce beta-lactamase.",
+  "domain": "bacterial_diseases",
+  "id": 239
+ },
+ {
+  "chapter": 15,
+  "front": "What is Lemierre syndrome and what causes it?",
+  "back": "Septic thrombophlebitis of the internal jugular vein with septic pulmonary emboli after pharyngitis, usually caused by Fusobacterium necrophorum.",
+  "domain": "bacterial_diseases",
+  "id": 240
+ },
+ {
+  "chapter": 16,
+  "front": "Which cytokine axis maintains the tuberculous granuloma?",
+  "back": "The IL-12 and interferon-gamma circuit activating macrophages through STAT1, with tumor necrosis factor holding the granuloma structure together.",
+  "domain": "bacterial_diseases",
+  "id": 241
+ },
+ {
+  "chapter": 16,
+  "front": "What is the lifetime reactivation risk after tuberculosis infection, and when is it highest?",
+  "back": "Roughly 5 to 10 percent, with about half of that risk falling within the first two years after infection.",
+  "domain": "bacterial_diseases",
+  "id": 242
+ },
+ {
+  "chapter": 16,
+  "front": "What are the three tuberculin skin test induration cutoffs?",
+  "back": "5 mm for the highest-risk groups such as HIV infection and recent contacts, 10 mm for intermediate-risk groups, and 15 mm for persons with no risk factors.",
+  "domain": "bacterial_diseases",
+  "id": 243
+ },
+ {
+  "chapter": 16,
+  "front": "Why are interferon-gamma release assays unaffected by bacille Calmette-Guerin vaccination?",
+  "back": "They use ESAT-6 and CFP-10, RD1-region antigens absent from the vaccine strain and from most nontuberculous mycobacteria.",
+  "domain": "bacterial_diseases",
+  "id": 244
+ },
+ {
+  "chapter": 16,
+  "front": "Name three preferred latent tuberculosis treatment regimens.",
+  "back": "Twelve weekly doses of isoniazid plus rifapentine (3HP), four months of daily rifampin (4R), and three months of daily isoniazid plus rifampin; nine months of isoniazid remains an option.",
+  "domain": "bacterial_diseases",
+  "id": 245
+ },
+ {
+  "chapter": 16,
+  "front": "What does Xpert MTB/RIF detect besides Mycobacterium tuberculosis DNA?",
+  "back": "rpoB mutations conferring rifampin resistance, which serves as an early resistance signal and a proxy for multidrug resistance.",
+  "domain": "bacterial_diseases",
+  "id": 246
+ },
+ {
+  "chapter": 16,
+  "front": "What is the standard regimen and duration for drug-susceptible pulmonary tuberculosis?",
+  "back": "Two months of isoniazid, rifampin, pyrazinamide, and ethambutol, then four months of isoniazid and rifampin, for six months total.",
+  "domain": "bacterial_diseases",
+  "id": 247
+ },
+ {
+  "chapter": 16,
+  "front": "Which antituberculous drug causes optic neuritis, and how is it monitored?",
+  "back": "Ethambutol, through dose-dependent retrobulbar optic neuritis with red-green color loss; baseline and monthly visual acuity and color vision checks are required.",
+  "domain": "bacterial_diseases",
+  "id": 248
+ },
+ {
+  "chapter": 16,
+  "front": "What adjunctive therapy reduces mortality in tuberculous meningitis?",
+  "back": "Dexamethasone, given with a taper over six to eight weeks alongside antituberculous therapy; central nervous system disease is treated for 9 to 12 months.",
+  "domain": "bacterial_diseases",
+  "id": 249
+ },
+ {
+  "chapter": 16,
+  "front": "What defines multidrug-resistant and extensively drug-resistant tuberculosis?",
+  "back": "MDR is resistance to at least isoniazid and rifampin. XDR is MDR plus fluoroquinolone resistance plus resistance to at least one additional Group A drug such as bedaquiline or linezolid.",
+  "domain": "bacterial_diseases",
+  "id": 250
+ },
+ {
+  "chapter": 16,
+  "front": "What is the BPaLM regimen and when is it preferred?",
+  "back": "Bedaquiline, pretomanid, linezolid, and moxifloxacin for six months, preferred for rifampin-resistant or multidrug-resistant disease with documented fluoroquinolone susceptibility.",
+  "domain": "bacterial_diseases",
+  "id": 251
+ },
+ {
+  "chapter": 16,
+  "front": "When should antiretroviral therapy start in TB-HIV coinfection?",
+  "back": "Within two weeks when CD4 is below 50 cells per microliter, by about eight weeks at higher CD4 counts, and deferred roughly four to eight weeks in tuberculous meningitis.",
+  "domain": "bacterial_diseases",
+  "id": 252
+ },
+ {
+  "chapter": 16,
+  "front": "How is paradoxical immune reconstitution inflammatory syndrome managed?",
+  "back": "Exclude treatment failure, resistance, and new infection, then continue both antituberculous and antiretroviral therapy while adding corticosteroids for significant symptoms.",
+  "domain": "bacterial_diseases",
+  "id": 253
+ },
+ {
+  "chapter": 16,
+  "front": "What three elements are required to diagnose nontuberculous mycobacterial lung disease?",
+  "back": "Compatible pulmonary symptoms, compatible imaging, and microbiologic confirmation by two separate positive sputum cultures of the same species, one positive lavage, or a biopsy with granulomas plus positive culture.",
+  "domain": "bacterial_diseases",
+  "id": 254
+ },
+ {
+  "chapter": 16,
+  "front": "What is the treatment for macrolide-susceptible Mycobacterium avium complex lung disease?",
+  "back": "Azithromycin plus rifampin plus ethambutol, continued at least 12 months after culture conversion; macrolide monotherapy is prohibited because it selects 23S rRNA resistance.",
+  "domain": "bacterial_diseases",
+  "id": 255
+ },
+ {
+  "chapter": 16,
+  "front": "At what temperature should cultures be incubated when Mycobacterium marinum is suspected?",
+  "back": "30 degrees Celsius, since it is a cooler-temperature grower; incubating only at 37 degrees Celsius is the classic reason it is missed.",
+  "domain": "bacterial_diseases",
+  "id": 256
+ },
+ {
+  "chapter": 17,
+  "front": "What penicillin regimen treats neurosyphilis, and why is benzathine penicillin inadequate?",
+  "back": "Aqueous crystalline penicillin G 18 to 24 million units daily for 10 to 14 days, because benzathine penicillin does not achieve treponemicidal cerebrospinal fluid levels.",
+  "domain": "bacterial_diseases",
+  "id": 257
+ },
+ {
+  "chapter": 17,
+  "front": "What is the prozone phenomenon in syphilis serology?",
+  "back": "A falsely negative undiluted nontreponemal test caused by enormous antibody excess in high-titer secondary or congenital disease, corrected by requesting dilution.",
+  "domain": "bacterial_diseases",
+  "id": 258
+ },
+ {
+  "chapter": 17,
+  "front": "How is a reactive treponemal immunoassay with a nonreactive RPR resolved?",
+  "back": "With a second, different treponemal test such as TP-PA; a reactive result indicates treated or late latent syphilis, and a nonreactive result suggests a false positive.",
+  "domain": "bacterial_diseases",
+  "id": 259
+ },
+ {
+  "chapter": 17,
+  "front": "How is syphilis treated in a penicillin-allergic pregnant patient?",
+  "back": "By formal desensitization in a monitored setting followed by penicillin, since penicillin is the only adequate therapy and macrolides fail to prevent fetal infection.",
+  "domain": "bacterial_diseases",
+  "id": 260
+ },
+ {
+  "chapter": 17,
+  "front": "What is the Jarisch-Herxheimer reaction?",
+  "back": "Fever, chills, myalgia, and transient worsening of lesions within 24 hours of treatment from cytokine release by lysed spirochetes; it is not allergic and does not contraindicate penicillin.",
+  "domain": "bacterial_diseases",
+  "id": 261
+ },
+ {
+  "chapter": 17,
+  "front": "Why is erythema migrans treated without serologic confirmation?",
+  "back": "Serology is insensitive during early localized Lyme disease, so the lesion is a clinical diagnosis and waiting for antibody only delays treatment.",
+  "domain": "bacterial_diseases",
+  "id": 262
+ },
+ {
+  "chapter": 17,
+  "front": "How long is Lyme arthritis treated, and with what?",
+  "back": "Twenty-eight days of oral doxycycline, with intravenous ceftriaxone reserved for arthritis refractory to oral therapy.",
+  "domain": "bacterial_diseases",
+  "id": 263
+ },
+ {
+  "chapter": 17,
+  "front": "What is the evidence-based management of post-treatment Lyme disease syndrome?",
+  "back": "Symptom-directed rehabilitation and longitudinal follow-up. Prolonged or repeated antibiotics failed in randomized trials and cause line infections and C. difficile.",
+  "domain": "bacterial_diseases",
+  "id": 264
+ },
+ {
+  "chapter": 17,
+  "front": "What laboratory pattern characterizes Weil syndrome in leptospirosis?",
+  "back": "Jaundice with high bilirubin disproportionate to modestly elevated transaminases, acute kidney injury classically with hypokalemia, thrombocytopenia, and a high creatine kinase.",
+  "domain": "bacterial_diseases",
+  "id": 265
+ },
+ {
+  "chapter": 17,
+  "front": "Why does brucellosis require prolonged multidrug therapy?",
+  "back": "Brucella survives inside macrophages as a facultative intracellular organism, so monotherapy relapses; doxycycline plus streptomycin or gentamicin, or plus rifampin, is given for at least six weeks.",
+  "domain": "bacterial_diseases",
+  "id": 266
+ },
+ {
+  "chapter": 17,
+  "front": "How do phase I and phase II antibody titers distinguish forms of Q fever?",
+  "back": "A high phase I IgG titer relative to phase II indicates persistent focalized infection such as endocarditis, whereas acute infection shows the reverse pattern.",
+  "domain": "bacterial_diseases",
+  "id": 267
+ },
+ {
+  "chapter": 17,
+  "front": "Why is hydroxychloroquine added to doxycycline for Q fever endocarditis?",
+  "back": "It alkalinizes the phagolysosome so doxycycline becomes bactericidal; treatment lasts at least 18 months for native valves and 24 months for prosthetic valves.",
+  "domain": "bacterial_diseases",
+  "id": 268
+ },
+ {
+  "chapter": 17,
+  "front": "What is the treatment of choice for Rocky Mountain spotted fever in a 6-year-old?",
+  "back": "Doxycycline, recommended at any age for suspected rickettsial illness, because short courses do not stain teeth and chloramphenicol carries higher mortality.",
+  "domain": "bacterial_diseases",
+  "id": 269
+ },
+ {
+  "chapter": 17,
+  "front": "How do ehrlichiosis and anaplasmosis differ in cell target and morulae location?",
+  "back": "Ehrlichia chaffeensis infects monocytes with morulae in monocytes; Anaplasma phagocytophilum infects granulocytes with morulae in neutrophils. Both respond to doxycycline.",
+  "domain": "bacterial_diseases",
+  "id": 270
+ },
+ {
+  "chapter": 17,
+  "front": "Which patients develop severe babesiosis, and how is severe disease treated?",
+  "back": "Asplenic patients, adults over 50, and the immunocompromised including those on rituximab; severe disease is treated with clindamycin plus quinine, with exchange transfusion considered.",
+  "domain": "bacterial_diseases",
+  "id": 271
+ },
+ {
+  "chapter": 17,
+  "front": "What is rabies postexposure prophylaxis for a previously unvaccinated person?",
+  "back": "Wound washing, human rabies immune globulin 20 IU/kg infiltrated around the wound, and vaccine on days 0, 3, 7, and 14, with immune globulin never given in the vaccine site or syringe.",
+  "domain": "bacterial_diseases",
+  "id": 272
+ },
+ {
+  "chapter": 18,
+  "front": "How long does cough from acute bronchitis typically last, and do antibiotics help?",
+  "back": "A median of about 18 days. Antibiotics shorten cough by less than a day and cause diarrhea, rash, C. difficile infection, and resistance selection.",
+  "domain": "clinical_syndromes",
+  "id": 273
+ },
+ {
+  "chapter": 18,
+  "front": "What are the four Centor criteria?",
+  "back": "Tonsillar exudate, tender anterior cervical adenopathy, fever by history, and absence of cough, with an age adjustment adding a point for age 3 to 14 and subtracting one at 45 or older.",
+  "domain": "clinical_syndromes",
+  "id": 274
+ },
+ {
+  "chapter": 18,
+  "front": "Which three patterns justify antibiotics for suspected bacterial sinusitis?",
+  "back": "Symptoms persisting 10 days or more without improvement, severe onset with fever of 39 degrees Celsius plus purulence for 3 to 4 days, or double sickening after initial improvement.",
+  "domain": "clinical_syndromes",
+  "id": 275
+ },
+ {
+  "chapter": 18,
+  "front": "What are the CURB-65 components?",
+  "back": "Confusion, urea above 19 mg/dL, respiratory rate 30 or higher, blood pressure with systolic below 90 or diastolic 60 or lower, and age 65 or older.",
+  "domain": "clinical_syndromes",
+  "id": 276
+ },
+ {
+  "chapter": 18,
+  "front": "How long is most community-acquired pneumonia treated?",
+  "back": "Five days, provided the patient reaches clinical stability by day 3; longer courses are reserved for empyema, abscess, or S. aureus and Pseudomonas infection.",
+  "domain": "clinical_syndromes",
+  "id": 277
+ },
+ {
+  "chapter": 18,
+  "front": "What did the CAPE COD trial show about corticosteroids in pneumonia?",
+  "back": "Hydrocortisone 200 mg daily with a taper reduced 28-day mortality in severe community-acquired pneumonia, with benefit concentrated in patients needing significant respiratory support.",
+  "domain": "clinical_syndromes",
+  "id": 278
+ },
+ {
+  "chapter": 18,
+  "front": "What is the major limitation of the Legionella urinary antigen test?",
+  "back": "It detects only L. pneumophila serogroup 1, roughly 70 to 80 percent of cases, so lower respiratory culture on buffered charcoal yeast extract medium is still needed.",
+  "domain": "clinical_syndromes",
+  "id": 279
+ },
+ {
+  "chapter": 18,
+  "front": "Why do beta-lactams fail against Legionella and Mycoplasma?",
+  "back": "Legionella replicates inside macrophages where beta-lactams do not reach effectively, and Mycoplasma has no cell wall at all, so both require macrolides, tetracyclines, or fluoroquinolones.",
+  "domain": "clinical_syndromes",
+  "id": 280
+ },
+ {
+  "chapter": 18,
+  "front": "What extrapulmonary complications follow Mycoplasma pneumoniae infection?",
+  "back": "Cold agglutinin hemolytic anemia, erythema multiforme and Mycoplasma-induced rash and mucositis, arthralgia, and rarely encephalitis, transverse myelitis, and Guillain-Barre syndrome.",
+  "domain": "clinical_syndromes",
+  "id": 281
+ },
+ {
+  "chapter": 18,
+  "front": "How does aspiration pneumonitis differ from aspiration pneumonia?",
+  "back": "Pneumonitis is a chemical acid injury appearing within hours that often needs no antibiotics; pneumonia is bacterial infection developing over days with fever and purulent sputum.",
+  "domain": "clinical_syndromes",
+  "id": 282
+ },
+ {
+  "chapter": 18,
+  "front": "Which pleural fluid findings mandate drainage of a parapneumonic effusion?",
+  "back": "Frank pus, a positive Gram stain or culture, pH below 7.20, glucose below 60 mg/dL, lactate dehydrogenase above about 1,000 units per liter, or loculation.",
+  "domain": "clinical_syndromes",
+  "id": 283
+ },
+ {
+  "chapter": 18,
+  "front": "What did MIST2 establish about intrapleural therapy for empyema?",
+  "back": "Combined tissue plasminogen activator plus human recombinant DNase improved drainage and reduced surgical referral, while neither agent alone was effective.",
+  "domain": "clinical_syndromes",
+  "id": 284
+ },
+ {
+  "chapter": 18,
+  "front": "How long are hospital-acquired and ventilator-associated pneumonia treated?",
+  "back": "Seven days, including infections caused by nonfermenting gram-negative organisms such as Pseudomonas, with de-escalation once cultures return.",
+  "domain": "clinical_syndromes",
+  "id": 285
+ },
+ {
+  "chapter": 18,
+  "front": "When is dual antipseudomonal coverage recommended in ventilator-associated pneumonia?",
+  "back": "With prior intravenous antibiotic exposure, local resistance above 10 percent for the agent considered, septic shock, acute respiratory distress syndrome, or structural lung disease.",
+  "domain": "clinical_syndromes",
+  "id": 286
+ },
+ {
+  "chapter": 18,
+  "front": "How does secondary bacterial pneumonia after influenza present, and what must empiric therapy cover?",
+  "back": "Improvement followed by abrupt worsening with high fever, purulent sputum, and new consolidation; coverage must include S. pneumoniae and Staphylococcus aureus with an anti-MRSA agent.",
+  "domain": "clinical_syndromes",
+  "id": 287
+ },
+ {
+  "chapter": 18,
+  "front": "What oxygen requirement determines dexamethasone use in COVID-19?",
+  "back": "Dexamethasone 6 mg daily reduced mortality only in patients requiring supplemental oxygen or mechanical ventilation, and showed no benefit in those on room air.",
+  "domain": "clinical_syndromes",
+  "id": 288
+ },
+ {
+  "chapter": 19,
+  "front": "What is the empiric antibiotic regimen for bacterial meningitis in an adult over 50?",
+  "back": "Vancomycin plus ceftriaxone 2 g IV every 12 hours, plus ampicillin to cover Listeria monocytogenes, which no cephalosporin treats.",
+  "domain": "clinical_syndromes",
+  "id": 289
+ },
+ {
+  "chapter": 19,
+  "front": "When must dexamethasone be given in suspected bacterial meningitis for it to work?",
+  "back": "Before or with the first antibiotic dose (10 mg IV every 6 hours for 4 days); it blunts inflammation from antibiotic-induced bacteriolysis and benefits pneumococcal disease.",
+  "domain": "clinical_syndromes",
+  "id": 290
+ },
+ {
+  "chapter": 19,
+  "front": "Which findings mandate CT before lumbar puncture in suspected meningitis?",
+  "back": "Immunocompromise, prior CNS disease, new seizure within a week, papilledema, abnormal consciousness, or a focal neurologic deficit. Antibiotics are given before the scan.",
+  "domain": "clinical_syndromes",
+  "id": 291
+ },
+ {
+  "chapter": 19,
+  "front": "What CSF pattern suggests tuberculous or fungal meningitis?",
+  "back": "Lymphocytic pleocytosis with low glucose and high protein; bacterial disease is neutrophilic with glucose ratio below 0.4, and viral disease has normal glucose.",
+  "domain": "clinical_syndromes",
+  "id": 292
+ },
+ {
+  "chapter": 19,
+  "front": "Who needs chemoprophylaxis after exposure to meningococcal meningitis?",
+  "back": "Household and childcare contacts, persons exposed to oral secretions, and clinicians after unprotected airway procedures; use rifampin, single-dose ciprofloxacin, or ceftriaxone 250 mg IM.",
+  "domain": "clinical_syndromes",
+  "id": 293
+ },
+ {
+  "chapter": 19,
+  "front": "How should a negative CSF HSV PCR be handled early in suspected herpes encephalitis?",
+  "back": "Continue acyclovir 10 mg/kg every 8 hours and repeat the PCR in several days; up to 5 percent are falsely negative in the first 72 hours.",
+  "domain": "clinical_syndromes",
+  "id": 294
+ },
+ {
+  "chapter": 19,
+  "front": "How is neuroinvasive West Nile virus infection diagnosed?",
+  "back": "CSF IgM antibody, which indicates intrathecal synthesis since IgM does not cross the blood-brain barrier; it can cause poliomyelitis-like flaccid paralysis.",
+  "domain": "clinical_syndromes",
+  "id": 295
+ },
+ {
+  "chapter": 19,
+  "front": "Which MRI sequence distinguishes brain abscess from necrotic tumor?",
+  "back": "Diffusion-weighted imaging: pus restricts diffusion (bright DWI, low ADC), while most necrotic tumor centers do not.",
+  "domain": "clinical_syndromes",
+  "id": 296
+ },
+ {
+  "chapter": 19,
+  "front": "What is the classic triad of spinal epidural abscess, and how often is it complete?",
+  "back": "Fever, localized spine pain, and neurologic deficit; all three coexist in only a minority at presentation, so full-spine MRI is obtained on suspicion.",
+  "domain": "clinical_syndromes",
+  "id": 297
+ },
+ {
+  "chapter": 19,
+  "front": "How is elevated intracranial pressure managed in cryptococcal meningitis?",
+  "back": "Serial therapeutic lumbar punctures when opening pressure exceeds 25 cm of water with symptoms, repeated daily until stable; pressure, not antifungal failure, drives early mortality.",
+  "domain": "clinical_syndromes",
+  "id": 298
+ },
+ {
+  "chapter": 19,
+  "front": "Why is antiretroviral therapy delayed after starting treatment for HIV-associated cryptococcal meningitis?",
+  "back": "Starting ART immediately increases mortality from CNS immune reconstitution inflammatory syndrome; it is deferred roughly 4 to 6 weeks.",
+  "domain": "clinical_syndromes",
+  "id": 299
+ },
+ {
+  "chapter": 19,
+  "front": "What two evaluations are mandatory before antiparasitic therapy for neurocysticercosis?",
+  "back": "Funduscopic examination for intraocular cysts (treatment can destroy the eye) and imaging for hydrocephalus or diffuse edema, which initially contraindicate antiparasitics.",
+  "domain": "clinical_syndromes",
+  "id": 300
+ },
+ {
+  "chapter": 19,
+  "front": "What imaging and vascular complications characterize tuberculous meningitis?",
+  "back": "Basilar meningeal enhancement, hydrocephalus, and vasculitis causing basal ganglia and internal capsule infarcts; treatment includes 9 to 12 months of therapy plus dexamethasone.",
+  "domain": "clinical_syndromes",
+  "id": 301
+ },
+ {
+  "chapter": 19,
+  "front": "How long should anaerobic cultures be held when Cutibacterium acnes shunt infection is suspected?",
+  "back": "10 to 14 days, because this indolent device pathogen grows slowly; management requires hardware removal, external drainage, and delayed reimplantation.",
+  "domain": "clinical_syndromes",
+  "id": 302
+ },
+ {
+  "chapter": 19,
+  "front": "What syndrome should be suspected when a patient deteriorates weeks after treated HSV encephalitis with a negative repeat PCR?",
+  "back": "Anti-NMDA receptor encephalitis triggered by herpetic neuronal injury; it presents with dyskinesias, psychiatric change, and autonomic instability and is treated with immunotherapy.",
+  "domain": "clinical_syndromes",
+  "id": 303
+ },
+ {
+  "chapter": 19,
+  "front": "Which CSF test has near 100 percent specificity for sporadic Creutzfeldt-Jakob disease?",
+  "back": "Real-time quaking-induced conversion (RT-QuIC), which amplifies misfolded prion protein; 14-3-3 and tau are sensitive but nonspecific markers of neuronal injury.",
+  "domain": "clinical_syndromes",
+  "id": 304
+ },
+ {
+  "chapter": 20,
+  "front": "What is the leading cause of infective endocarditis in the developed world?",
+  "back": "Staphylococcus aureus, producing an acute destructive endocarditis with in-hospital mortality around 20 to 25 percent.",
+  "domain": "clinical_syndromes",
+  "id": 305
+ },
+ {
+  "chapter": 20,
+  "front": "What did the 2023 Duke-ISCVID revision add to the major imaging criteria for endocarditis?",
+  "back": "18F-FDG PET/CT metabolic activity around prosthetic valves or devices and cardiac CT findings now qualify, alongside echocardiographic evidence, plus a surgical inspection major criterion.",
+  "domain": "clinical_syndromes",
+  "id": 306
+ },
+ {
+  "chapter": 20,
+  "front": "Which serologic result is a major Duke criterion for Q fever endocarditis?",
+  "back": "Coxiella burnetii phase I IgG titer of 1:800 or greater; treatment is doxycycline plus hydroxychloroquine for at least 18 months.",
+  "domain": "clinical_syndromes",
+  "id": 307
+ },
+ {
+  "chapter": 20,
+  "front": "What endocarditis pathogen requires colonoscopy in every case?",
+  "back": "Streptococcus gallolyticus (formerly S. bovis), because of its strong association with colonic neoplasia.",
+  "domain": "clinical_syndromes",
+  "id": 308
+ },
+ {
+  "chapter": 20,
+  "front": "What is the preferred regimen for E. faecalis native valve endocarditis and why?",
+  "back": "Ampicillin plus ceftriaxone for 6 weeks; ceftriaxone saturates complementary penicillin-binding proteins for synergy, matching ampicillin-gentamicin cure rates without nephrotoxicity.",
+  "domain": "clinical_syndromes",
+  "id": 309
+ },
+ {
+  "chapter": 20,
+  "front": "What did the POET trial establish for endocarditis treatment?",
+  "back": "In stable left-sided endocarditis with susceptible organisms and no abscess, oral step-down after at least 10 days of IV therapy was noninferior to continued IV treatment.",
+  "domain": "clinical_syndromes",
+  "id": 310
+ },
+ {
+  "chapter": 20,
+  "front": "When is rifampin added in staphylococcal prosthetic valve endocarditis?",
+  "back": "After blood cultures clear, to penetrate biofilm on prosthetic material while avoiding resistance selection during active bacteremia; gentamicin accompanies the first 2 weeks.",
+  "domain": "clinical_syndromes",
+  "id": 311
+ },
+ {
+  "chapter": 20,
+  "front": "What does new PR prolongation signify in aortic valve endocarditis?",
+  "back": "Aortic root or annular abscess extending toward the atrioventricular node, a form of uncontrolled infection that is a surgical indication.",
+  "domain": "clinical_syndromes",
+  "id": 312
+ },
+ {
+  "chapter": 20,
+  "front": "How is cardiac implantable electronic device infection managed?",
+  "back": "Complete extraction of the generator and all leads regardless of which component appears infected, with reimplantation deferred until blood cultures are negative at least 72 hours.",
+  "domain": "clinical_syndromes",
+  "id": 313
+ },
+ {
+  "chapter": 20,
+  "front": "What are the three canonical surgical indications in left-sided endocarditis?",
+  "back": "Heart failure from valve dysfunction, uncontrolled infection (abscess, persistent bacteremia), and embolism prevention with vegetations over 10 mm plus embolic events.",
+  "domain": "clinical_syndromes",
+  "id": 314
+ },
+ {
+  "chapter": 20,
+  "front": "What short-course therapy is validated for uncomplicated right-sided MSSA endocarditis?",
+  "back": "Two weeks of an antistaphylococcal beta-lactam; vancomycin is not reliable in 2-week regimens, so MRSA disease receives standard durations.",
+  "domain": "clinical_syndromes",
+  "id": 315
+ },
+ {
+  "chapter": 20,
+  "front": "Which cardiac conditions still warrant endocarditis prophylaxis before dental procedures?",
+  "back": "Prosthetic valves or repair material, prior endocarditis, unrepaired or incompletely repaired cyanotic congenital heart disease, and transplant valvulopathy; amoxicillin 2 g is standard.",
+  "domain": "clinical_syndromes",
+  "id": 316
+ },
+ {
+  "chapter": 20,
+  "front": "What is Lemierre syndrome?",
+  "back": "Fusobacterium necrophorum septic thrombophlebitis of the internal jugular vein after oropharyngeal infection in a young patient, with septic pulmonary emboli.",
+  "domain": "clinical_syndromes",
+  "id": 317
+ },
+ {
+  "chapter": 20,
+  "front": "Which organism has a specific affinity for infecting the atherosclerotic aorta?",
+  "back": "Salmonella; infected (mycotic) aortic aneurysms require surgical or endovascular source control plus prolonged antibiotics, not antibiotics alone.",
+  "domain": "clinical_syndromes",
+  "id": 318
+ },
+ {
+  "chapter": 20,
+  "front": "Why does endocarditis produce continuous rather than intermittent bacteremia?",
+  "back": "The vegetation sheds organisms directly into flowing blood, so three separate blood culture sets before antibiotics are positive in most untreated patients.",
+  "domain": "clinical_syndromes",
+  "id": 319
+ },
+ {
+  "chapter": 20,
+  "front": "What is nonbacterial thrombotic (marantic) endocarditis?",
+  "back": "Sterile platelet-fibrin vegetations in malignancy (classically mucinous adenocarcinoma) or severe illness, presenting with emboli and negative cultures; treated with anticoagulation.",
+  "domain": "clinical_syndromes",
+  "id": 320
+ },
+ {
+  "chapter": 21,
+  "front": "Why are antibiotics and antimotility agents avoided in Shiga toxin-producing E. coli infection?",
+  "back": "Antibiotics induce phage-encoded Shiga toxin production and are associated with increased hemolytic uremic syndrome risk; antimotility agents retain toxin in the colon.",
+  "domain": "clinical_syndromes",
+  "id": 321
+ },
+ {
+  "chapter": 21,
+  "front": "When is nontyphoidal Salmonella gastroenteritis treated with antibiotics?",
+  "back": "Severe disease, age over 50, prosthetic or endovascular material, hemoglobinopathy, and immunocompromise; healthy adults are not treated because antibiotics prolong carriage.",
+  "domain": "clinical_syndromes",
+  "id": 322
+ },
+ {
+  "chapter": 21,
+  "front": "What does vomiting 1 to 6 hours after a meal indicate in foodborne illness?",
+  "back": "A preformed toxin ingested with the food: Staphylococcus aureus enterotoxin or Bacillus cereus emetic toxin (cereulide), classically from fried rice.",
+  "domain": "clinical_syndromes",
+  "id": 323
+ },
+ {
+  "chapter": 21,
+  "front": "What is the diagnostic threshold for spontaneous bacterial peritonitis?",
+  "back": "Ascitic fluid absolute polymorphonuclear count of 250 cells per cubic millimeter or greater; treat 5 days with cefotaxime or ceftriaxone even if culture is negative.",
+  "domain": "clinical_syndromes",
+  "id": 324
+ },
+ {
+  "chapter": 21,
+  "front": "What adjunct reduces renal failure and mortality in spontaneous bacterial peritonitis?",
+  "back": "Intravenous albumin, 1.5 g/kg on day 1 and 1 g/kg on day 3, clearest with creatinine above 1 mg/dL or bilirubin above 4 mg/dL.",
+  "domain": "clinical_syndromes",
+  "id": 325
+ },
+ {
+  "chapter": 21,
+  "front": "What ascitic findings suggest secondary rather than spontaneous peritonitis?",
+  "back": "Very high PMN counts, multiple organisms or anaerobes, protein above 1 g/dL, glucose below 50 mg/dL, or LDH above serum; obtain CT for a surgical source.",
+  "domain": "clinical_syndromes",
+  "id": 326
+ },
+ {
+  "chapter": 21,
+  "front": "What did the STOP-IT trial show about antibiotic duration in intra-abdominal infection?",
+  "back": "After adequate source control, roughly 4 days of antibiotics achieved outcomes equivalent to longer symptom-guided courses.",
+  "domain": "clinical_syndromes",
+  "id": 327
+ },
+ {
+  "chapter": 21,
+  "front": "What does Tokyo Grade III (severe) cholangitis require?",
+  "back": "Emergent biliary decompression, usually by ERCP, because organ dysfunction with pus under pressure does not respond to antibiotics alone.",
+  "domain": "clinical_syndromes",
+  "id": 328
+ },
+ {
+  "chapter": 21,
+  "front": "What is the modern intervention strategy for infected pancreatic necrosis?",
+  "back": "Delay intervention toward 4 weeks for walled-off necrosis when possible, then step-up: percutaneous or endoscopic drainage first, minimally invasive necrosectomy only for failure (PANTER trial).",
+  "domain": "clinical_syndromes",
+  "id": 329
+ },
+ {
+  "chapter": 21,
+  "front": "What complication pattern defines hypervirulent Klebsiella pneumoniae liver abscess?",
+  "back": "Cryptogenic monomicrobial abscess in diabetics (capsular types K1/K2) with metastatic endophthalmitis and CNS infection; visual symptoms demand same-day ophthalmology.",
+  "domain": "clinical_syndromes",
+  "id": 330
+ },
+ {
+  "chapter": 21,
+  "front": "How does treatment of amebic liver abscess differ from pyogenic abscess?",
+  "back": "Amebic abscess responds to metronidazole followed by a luminal agent (paromomycin) and rarely needs drainage; pyogenic abscess requires percutaneous drainage plus antibiotics.",
+  "domain": "clinical_syndromes",
+  "id": 331
+ },
+ {
+  "chapter": 21,
+  "front": "What did the CODA trial show for uncomplicated appendicitis?",
+  "back": "Antibiotics were noninferior to appendectomy at 30 days, but nearly a third crossed to surgery by 90 days, and appendicolith predicted medical failure.",
+  "domain": "clinical_syndromes",
+  "id": 332
+ },
+ {
+  "chapter": 21,
+  "front": "What is first-line H. pylori therapy in North America and its follow-up?",
+  "back": "Bismuth quadruple therapy (PPI, bismuth, tetracycline, metronidazole) for 14 days, with mandatory eradication testing by breath or stool at least 4 weeks after completion.",
+  "domain": "clinical_syndromes",
+  "id": 333
+ },
+ {
+  "chapter": 21,
+  "front": "What is the diagnostic finding and treatment of Whipple disease?",
+  "back": "Duodenal biopsy with PAS-positive foamy macrophages confirmed by PCR; ceftriaxone for 2 weeks then trimethoprim-sulfamethoxazole for about a year.",
+  "domain": "clinical_syndromes",
+  "id": 334
+ },
+ {
+  "chapter": 21,
+  "front": "How is CMV colitis diagnosed in an immunocompromised patient?",
+  "back": "Tissue diagnosis: colonoscopic biopsy showing inclusion-bearing cells with positive immunohistochemistry; plasma PCR alone neither confirms nor excludes colitis.",
+  "domain": "clinical_syndromes",
+  "id": 335
+ },
+ {
+  "chapter": 22,
+  "front": "What are the only two indications to treat asymptomatic bacteriuria?",
+  "back": "Pregnancy and upcoming endoscopic urologic procedures with expected mucosal bleeding; treatment elsewhere causes harm without benefit.",
+  "domain": "clinical_syndromes",
+  "id": 336
+ },
+ {
+  "chapter": 22,
+  "front": "What are the three first-line agents for uncomplicated cystitis?",
+  "back": "Nitrofurantoin 100 mg twice daily for 5 days, trimethoprim-sulfamethoxazole double strength twice daily for 3 days, and fosfomycin 3 g as a single dose.",
+  "domain": "clinical_syndromes",
+  "id": 337
+ },
+ {
+  "chapter": 22,
+  "front": "Why is nitrofurantoin never used for pyelonephritis?",
+  "back": "It concentrates only in urine and never achieves adequate tissue levels; it is also avoided when creatinine clearance falls below roughly 30 mL/min.",
+  "domain": "clinical_syndromes",
+  "id": 338
+ },
+ {
+  "chapter": 22,
+  "front": "What does persistent fever at 48 to 72 hours of appropriate pyelonephritis therapy require?",
+  "back": "CT imaging for obstruction, perinephric or renal abscess, or emphysematous infection; an obstructed infected kidney needs emergent stent or nephrostomy decompression.",
+  "domain": "clinical_syndromes",
+  "id": 339
+ },
+ {
+  "chapter": 22,
+  "front": "How is emphysematous pyelonephritis managed?",
+  "back": "Resuscitation, carbapenem-level antibiotics, and urgent percutaneous drainage, reserving nephrectomy for extensive gas, nonresponse, or destroyed parenchyma; it occurs almost exclusively in diabetics.",
+  "domain": "clinical_syndromes",
+  "id": 340
+ },
+ {
+  "chapter": 22,
+  "front": "Why does chronic bacterial prostatitis require 4 to 6 weeks of a fluoroquinolone?",
+  "back": "The uninflamed prostate is a pharmacologic sanctuary that only lipophilic, favorably ionized drugs penetrate; it presents as recurrent same-organism UTIs in a man.",
+  "domain": "clinical_syndromes",
+  "id": 341
+ },
+ {
+  "chapter": 22,
+  "front": "What nonantibiotic prophylaxis was noninferior to daily antibiotics for recurrent UTI in the ALTAR trial?",
+  "back": "Methenamine hippurate, which liberates formaldehyde in acidic urine; vaginal estrogen is the other key nonantibiotic option in postmenopausal women.",
+  "domain": "clinical_syndromes",
+  "id": 342
+ },
+ {
+  "chapter": 22,
+  "front": "What is the current first-line treatment for gonorrhea?",
+  "back": "Ceftriaxone 500 mg IM as a single dose (1 g if 150 kg or more), without routine azithromycin; add doxycycline only for documented or untested chlamydial coinfection.",
+  "domain": "clinical_syndromes",
+  "id": 343
+ },
+ {
+  "chapter": 22,
+  "front": "Which gonococcal infection site requires routine test of cure?",
+  "back": "Pharyngeal gonorrhea, tested at 7 to 14 days, because it is the hardest site to eradicate; all patients are also retested for reinfection at about 3 months.",
+  "domain": "clinical_syndromes",
+  "id": 344
+ },
+ {
+  "chapter": 22,
+  "front": "Why did doxycycline replace azithromycin as first-line chlamydia treatment?",
+  "back": "Randomized data showed azithromycin inferior at rectal sites, where infection is common and often unrecognized; doxycycline runs 7 days, or 21 days for LGV.",
+  "domain": "clinical_syndromes",
+  "id": 345
+ },
+ {
+  "chapter": 22,
+  "front": "What is the empiric treatment sequence for Mycoplasma genitalium without resistance testing?",
+  "back": "Doxycycline for 7 days to lower organism load, followed immediately by moxifloxacin for 7 days; beta-lactams are useless because the organism has no cell wall.",
+  "domain": "clinical_syndromes",
+  "id": 346
+ },
+ {
+  "chapter": 22,
+  "front": "What is the current outpatient regimen for pelvic inflammatory disease?",
+  "back": "Ceftriaxone 500 mg IM once, plus doxycycline and metronidazole each for 14 days, with clinical reassessment at 72 hours.",
+  "domain": "clinical_syndromes",
+  "id": 347
+ },
+ {
+  "chapter": 22,
+  "front": "What is doxy-PEP and its evidence?",
+  "back": "Doxycycline 200 mg within 72 hours after condomless sex reduced bacterial STIs by roughly two thirds (chlamydia and syphilis) in trials of MSM and transgender women with prior STI.",
+  "domain": "clinical_syndromes",
+  "id": 348
+ },
+ {
+  "chapter": 22,
+  "front": "How does daily valacyclovir suppression change genital herpes outcomes?",
+  "back": "It reduces recurrences by about three quarters and transmission to susceptible partners by about half, proven in a discordant-couples trial.",
+  "domain": "clinical_syndromes",
+  "id": 349
+ },
+ {
+  "chapter": 22,
+  "front": "How does pyelonephritis of a transplanted kidney present differently?",
+  "back": "The allograft is denervated, so infection presents as fever, graft tenderness, or unexplained creatinine rise rather than classic flank pain.",
+  "domain": "clinical_syndromes",
+  "id": 350
+ },
+ {
+  "chapter": 23,
+  "front": "What organisms cause nonpurulent cellulitis versus purulent skin infection?",
+  "back": "Nonpurulent cellulitis is overwhelmingly beta-hemolytic streptococci, treated with cephalexin or cefazolin; abscesses are S. aureus, often MRSA, and require drainage.",
+  "domain": "clinical_syndromes",
+  "id": 351
+ },
+ {
+  "chapter": 23,
+  "front": "Do drained skin abscesses need antibiotics?",
+  "back": "Yes, randomized trials showed adjunctive trimethoprim-sulfamethoxazole or clindamycin after incision and drainage improves cure and reduces recurrence.",
+  "domain": "clinical_syndromes",
+  "id": 352
+ },
+ {
+  "chapter": 23,
+  "front": "What prophylaxis reduces recurrent leg cellulitis?",
+  "back": "Penicillin V 250 mg twice daily halved recurrences in the PATCH I trial; also treat tinea pedis and use compression for edema.",
+  "domain": "clinical_syndromes",
+  "id": 353
+ },
+ {
+  "chapter": 23,
+  "front": "Can the LRINEC score exclude necrotizing soft tissue infection?",
+  "back": "No; its sensitivity is inadequate as a rule-out test, and operative exploration on clinical suspicion is the definitive diagnostic and therapeutic act.",
+  "domain": "clinical_syndromes",
+  "id": 354
+ },
+ {
+  "chapter": 23,
+  "front": "Why is clindamycin added in necrotizing streptococcal infection?",
+  "back": "It suppresses toxin and superantigen production and retains activity against high-inoculum, stationary-phase streptococci where beta-lactams falter (the Eagle effect).",
+  "domain": "clinical_syndromes",
+  "id": 355
+ },
+ {
+  "chapter": 23,
+  "front": "Why is amoxicillin-clavulanate the drug of choice for bite wounds?",
+  "back": "It covers Pasteurella multocida, Eikenella corrodens, anaerobes, and skin flora together; cephalexin and clindamycin each miss Pasteurella and Eikenella.",
+  "domain": "clinical_syndromes",
+  "id": 356
+ },
+ {
+  "chapter": 23,
+  "front": "Which bite-associated organism causes fulminant sepsis in asplenic patients?",
+  "back": "Capnocytophaga canimorsus from dog bites, producing overwhelming sepsis with purpura fulminans in asplenic and cirrhotic hosts.",
+  "domain": "clinical_syndromes",
+  "id": 357
+ },
+ {
+  "chapter": 23,
+  "front": "What infection follows saltwater exposure in a cirrhotic patient, and how is it treated?",
+  "back": "Vibrio vulnificus necrotizing infection with hemorrhagic bullae; treat with ceftriaxone plus doxycycline and early surgical debridement.",
+  "domain": "clinical_syndromes",
+  "id": 358
+ },
+ {
+  "chapter": 23,
+  "front": "What exposure and treatment characterize Mycobacterium marinum infection?",
+  "back": "Fish tank or fish-handling exposure causing indolent nodular or sporotrichoid hand lesions; treat for months with clarithromycin plus ethambutol or rifampin.",
+  "domain": "clinical_syndromes",
+  "id": 359
+ },
+ {
+  "chapter": 23,
+  "front": "What bedside findings make diabetic foot osteomyelitis probable?",
+  "back": "A positive probe-to-bone test, ulcer over 2 square centimeters, ESR above 70, and radiographic cortical erosion; bone biopsy is the diagnostic anchor.",
+  "domain": "clinical_syndromes",
+  "id": 360
+ },
+ {
+  "chapter": 23,
+  "front": "When are antibiotics started in stable native vertebral osteomyelitis with negative blood cultures?",
+  "back": "Only after image-guided biopsy obtains a microbiologic diagnosis; empiric therapy first suppresses culture yield and commits to guess-directed treatment.",
+  "domain": "clinical_syndromes",
+  "id": 361
+ },
+ {
+  "chapter": 23,
+  "front": "What antibiotic duration is standard for pyogenic vertebral osteomyelitis?",
+  "back": "Six weeks, shown noninferior to 12 weeks in a randomized French trial, extended for undrained abscess or resistant organisms.",
+  "domain": "clinical_syndromes",
+  "id": 362
+ },
+ {
+  "chapter": 23,
+  "front": "When is DAIR appropriate for prosthetic joint infection?",
+  "back": "Early postoperative or acute hematogenous infection with short symptom duration and a stable implant; modular components are exchanged and staphylococcal cases get rifampin combination therapy.",
+  "domain": "clinical_syndromes",
+  "id": 363
+ },
+ {
+  "chapter": 23,
+  "front": "What synovial fluid white count suggests native joint septic arthritis?",
+  "back": "Above 50,000 cells per microliter with neutrophil predominance makes infection likely, above 100,000 very likely; crystals in the fluid do not exclude coexisting infection.",
+  "domain": "clinical_syndromes",
+  "id": 364
+ },
+ {
+  "chapter": 23,
+  "front": "What triad characterizes disseminated gonococcal infection?",
+  "back": "Tenosynovitis, dermatitis (scattered pustular lesions), and migratory polyarthralgia; joint and blood cultures are often negative, so mucosal site NAATs carry the diagnostic yield.",
+  "domain": "clinical_syndromes",
+  "id": 365
+ },
+ {
+  "chapter": 24,
+  "front": "Which coreceptor does most transmitted HIV use for entry, and which drug blocks it?",
+  "back": "CCR5 is the coreceptor of most transmitted (R5) virus. Maraviroc blocks CCR5 and requires a tropism assay before use.",
+  "domain": "hiv",
+  "id": 366
+ },
+ {
+  "chapter": 24,
+  "front": "What laboratory pattern defines acute HIV infection on the CDC testing algorithm?",
+  "back": "A reactive fourth generation antigen-antibody screen with a negative or indeterminate HIV-1/HIV-2 differentiation assay and detectable HIV RNA.",
+  "domain": "hiv",
+  "id": 367
+ },
+ {
+  "chapter": 24,
+  "front": "What test must return before any patient receives abacavir, and why?",
+  "back": "HLA-B*5701 testing. Carriers are at risk for a systemic hypersensitivity reaction that can be fatal on rechallenge; screening essentially abolishes it.",
+  "domain": "hiv",
+  "id": 368
+ },
+ {
+  "chapter": 24,
+  "front": "What does the M184V mutation do to lamivudine, viral fitness, and tenofovir susceptibility?",
+  "back": "It confers high-level lamivudine and emtricitabine resistance while crippling replicative fitness and increasing susceptibility to tenofovir and zidovudine.",
+  "domain": "hiv",
+  "id": 369
+ },
+ {
+  "chapter": 24,
+  "front": "Which reverse transcriptase mutation is selected by tenofovir failure?",
+  "back": "K65R, which reduces susceptibility to tenofovir, abacavir, and lamivudine but increases zidovudine susceptibility; it is antagonistic with M184V.",
+  "domain": "hiv",
+  "id": 370
+ },
+ {
+  "chapter": 24,
+  "front": "Name the three conditions that must be excluded before using the dolutegravir plus lamivudine two-drug regimen.",
+  "back": "Baseline viral load above 500,000 copies per milliliter, chronic hepatitis B coinfection, and absence of baseline genotype (or transmitted resistance) results.",
+  "domain": "hiv",
+  "id": 371
+ },
+ {
+  "chapter": 24,
+  "front": "Why do dolutegravir, bictegravir, and cobicistat raise serum creatinine without harming the kidney?",
+  "back": "They inhibit tubular creatinine secretion (OCT2 or MATE1), causing a benign rise of roughly 0.1 to 0.15 milligrams per deciliter with unchanged true glomerular filtration.",
+  "domain": "hiv",
+  "id": 372
+ },
+ {
+  "chapter": 24,
+  "front": "How does tenofovir disoproxil fumarate (TDF) toxicity differ from tenofovir alafenamide (TAF)?",
+  "back": "TDF causes proximal tubulopathy (Fanconi syndrome) and bone density loss; TAF has less renal and bone toxicity but more weight gain and lipid elevation.",
+  "domain": "hiv",
+  "id": 373
+ },
+ {
+  "chapter": 24,
+  "front": "What is the U=U message and its evidence base?",
+  "back": "Undetectable equals untransmittable: durable viral suppression below 200 copies per milliliter eliminates sexual HIV transmission, shown by HPTN 052 and the PARTNER studies.",
+  "domain": "hiv",
+  "id": 374
+ },
+ {
+  "chapter": 24,
+  "front": "What is the window for starting HIV post-exposure prophylaxis and how long does it last?",
+  "back": "Start as soon as possible and within 72 hours of exposure; continue a three-drug regimen (tenofovir-emtricitabine plus dolutegravir or raltegravir) for 28 days.",
+  "domain": "hiv",
+  "id": 375
+ },
+ {
+  "chapter": 24,
+  "front": "Which long-acting injectable PrEP agent beat daily oral tenofovir-based PrEP in HPTN 083 and 084?",
+  "back": "Cabotegravir, given intramuscularly every two months, largely because it removes the daily adherence requirement.",
+  "domain": "hiv",
+  "id": 376
+ },
+ {
+  "chapter": 24,
+  "front": "Why must integrase inhibitors be separated from antacids and mineral supplements?",
+  "back": "Polyvalent cations (calcium, magnesium, aluminum, iron) chelate INSTIs in the gut, lowering absorption enough to cause virologic failure.",
+  "domain": "hiv",
+  "id": 377
+ },
+ {
+  "chapter": 24,
+  "front": "What adjustment does rifampin force on an integrase-inhibitor-based HIV regimen?",
+  "back": "Rifampin induction requires dolutegravir twice daily and prohibits bictegravir, tenofovir alafenamide, and boosted regimens; rifabutin is the alternative rifamycin.",
+  "domain": "hiv",
+  "id": 378
+ },
+ {
+  "chapter": 24,
+  "front": "What is the preferred anchor class and example regimens for first-line HIV therapy?",
+  "back": "Second generation integrase inhibitors: bictegravir/TAF/emtricitabine, dolutegravir plus a tenofovir backbone, or dolutegravir plus lamivudine when eligibility conditions are met.",
+  "domain": "hiv",
+  "id": 379
+ },
+ {
+  "chapter": 24,
+  "front": "Which HIV regimens are preferred in pregnancy and what determines intrapartum management?",
+  "back": "Dolutegravir-based therapy with a tenofovir plus emtricitabine or lamivudine backbone; viral load near delivery decides mode of delivery and intravenous zidovudine (above 1,000 copies: cesarean plus zidovudine).",
+  "domain": "hiv",
+  "id": 380
+ },
+ {
+  "chapter": 25,
+  "front": "At what CD4 thresholds do Pneumocystis, Toxoplasma, Cryptococcus, CMV, and MAC classically appear?",
+  "back": "Pneumocystis below 200; Toxoplasma and Cryptococcus below 100; cytomegalovirus end-organ disease and disseminated Mycobacterium avium complex below 50.",
+  "domain": "hiv",
+  "id": 381
+ },
+ {
+  "chapter": 25,
+  "front": "What are the criteria for adjunctive corticosteroids in HIV-associated Pneumocystis pneumonia?",
+  "back": "Room air arterial oxygen tension below 70 mmHg or an alveolar-arterial gradient of 35 or more; give prednisone within 72 hours of starting treatment.",
+  "domain": "hiv",
+  "id": 382
+ },
+ {
+  "chapter": 25,
+  "front": "When is Pneumocystis prophylaxis started and stopped in HIV?",
+  "back": "Start trimethoprim-sulfamethoxazole at CD4 below 200, CD4 percentage under 14, or with oropharyngeal candidiasis; stop after the count exceeds 200 for at least three months on suppressive therapy.",
+  "domain": "hiv",
+  "id": 383
+ },
+ {
+  "chapter": 25,
+  "front": "How is toxoplasmic encephalitis distinguished from primary CNS lymphoma in AIDS?",
+  "back": "Toxoplasmosis: multiple ring-enhancing basal ganglia lesions in a seropositive patient responding to empiric therapy in 10 to 14 days. Lymphoma: solitary periventricular lesion, positive CSF EBV PCR, thallium or FDG avidity.",
+  "domain": "hiv",
+  "id": 384
+ },
+ {
+  "chapter": 25,
+  "front": "Outline the three phases of cryptococcal meningitis treatment in HIV.",
+  "back": "Induction: liposomal amphotericin B plus flucytosine for at least 2 weeks. Consolidation: fluconazole 800 mg daily for 8 weeks. Maintenance: fluconazole 200 mg daily for at least a year and until immune reconstitution.",
+  "domain": "hiv",
+  "id": 385
+ },
+ {
+  "chapter": 25,
+  "front": "How is raised intracranial pressure managed in cryptococcal meningitis?",
+  "back": "Serial therapeutic lumbar punctures for pressures of 25 cm of water or more with symptoms, removing enough CSF to halve the opening pressure; corticosteroids do not help.",
+  "domain": "hiv",
+  "id": 386
+ },
+ {
+  "chapter": 25,
+  "front": "When should ART start after diagnosis of cryptococcal meningitis, and why?",
+  "back": "Defer 4 to 6 weeks after starting antifungals; the COAT trial showed earlier initiation increased mortality from intracranial immune reconstitution inflammation.",
+  "domain": "hiv",
+  "id": 387
+ },
+ {
+  "chapter": 25,
+  "front": "What are the ART timing rules in HIV-tuberculosis coinfection?",
+  "back": "Start ART within 2 weeks of TB treatment when CD4 is below 50, within 8 weeks otherwise; delay toward 8 weeks in tuberculous meningitis.",
+  "domain": "hiv",
+  "id": 388
+ },
+ {
+  "chapter": 25,
+  "front": "What is the classic laboratory and clinical fingerprint of disseminated MAC?",
+  "back": "CD4 below 50 with fever, night sweats, weight loss, diarrhea, hepatosplenomegaly, cytopenias, and a markedly elevated alkaline phosphatase; diagnose by mycobacterial blood culture.",
+  "domain": "hiv",
+  "id": 389
+ },
+ {
+  "chapter": 25,
+  "front": "Why is MAC primary prophylaxis no longer routinely given?",
+  "back": "Since 2019, patients who immediately start effective ART do not benefit; prophylaxis (weekly azithromycin) is reserved for those not on suppressive therapy.",
+  "domain": "hiv",
+  "id": 390
+ },
+ {
+  "chapter": 25,
+  "front": "How is sight-threatening CMV retinitis treated?",
+  "back": "Oral valganciclovir induction then maintenance, plus immediate intravitreal ganciclovir or foscarnet injections for lesions near the fovea or optic nerve; continue until CD4 exceeds 100 for 3 to 6 months.",
+  "domain": "hiv",
+  "id": 391
+ },
+ {
+  "chapter": 25,
+  "front": "Define paradoxical versus unmasking IRIS.",
+  "back": "Paradoxical IRIS worsens a known treated infection after ART starts; unmasking IRIS reveals a previously subclinical infection in an exaggerated inflammatory form.",
+  "domain": "hiv",
+  "id": 392
+ },
+ {
+  "chapter": 25,
+  "front": "What are the three management rules for IRIS?",
+  "back": "Continue ART (except life-threatening CNS disease), continue treatment of the opportunistic infection, and treat inflammation with NSAIDs or corticosteroids for severe disease.",
+  "domain": "hiv",
+  "id": 393
+ },
+ {
+  "chapter": 25,
+  "front": "Which vaccines are contraindicated below a CD4 count of 200?",
+  "back": "Live vaccines: measles-mumps-rubella and varicella; also avoid live attenuated influenza and oral typhoid. Nonliving vaccines including recombinant zoster remain safe.",
+  "domain": "hiv",
+  "id": 394
+ },
+ {
+  "chapter": 25,
+  "front": "What screening test belongs on the admission panel of every patient with a CD4 count of 100 or below?",
+  "back": "Serum cryptococcal antigen; antigenemia precedes meningitis by weeks, and a positive result mandates lumbar puncture with preemptive fluconazole if meningitis is excluded.",
+  "domain": "hiv",
+  "id": 395
+ },
+ {
+  "chapter": 26,
+  "front": "What is the immediate management rule for suspected herpes simplex encephalitis?",
+  "back": "Start intravenous acyclovir 10 mg/kg every 8 hours at the moment of suspicion, before PCR confirmation; continue 14 to 21 days.",
+  "domain": "viral_fungal_parasitic",
+  "id": 396
+ },
+ {
+  "chapter": 26,
+  "front": "What is Ramsay Hunt syndrome?",
+  "back": "Varicella-zoster reactivation in the geniculate ganglion: facial paralysis, ear pain, and vesicles in the auditory canal or on the auricle, treated with antivirals plus corticosteroids.",
+  "domain": "viral_fungal_parasitic",
+  "id": 397
+ },
+ {
+  "chapter": 26,
+  "front": "What is VZV vasculopathy and when should it be suspected?",
+  "back": "Viral invasion of cerebral arteries causing stroke weeks to months after zoster, classically contralateral hemiparesis after ophthalmic zoster; CSF shows pleocytosis with VZV antibody or PCR, treated with intravenous acyclovir.",
+  "domain": "viral_fungal_parasitic",
+  "id": 398
+ },
+ {
+  "chapter": 26,
+  "front": "Which donor-recipient CMV serostatus pairing carries the highest risk in solid organ transplantation?",
+  "back": "Seropositive donor into seronegative recipient (D+/R-), because the recipient has no preexisting CMV immunity; in stem cell transplant the seropositive recipient is highest risk.",
+  "domain": "viral_fungal_parasitic",
+  "id": 399
+ },
+ {
+  "chapter": 26,
+  "front": "Contrast UL97 and UL54 mutations in cytomegalovirus resistance.",
+  "back": "UL97 kinase mutations block ganciclovir's first phosphorylation and confer ganciclovir resistance only; UL54 polymerase mutations can extend resistance to foscarnet and cidofovir.",
+  "domain": "viral_fungal_parasitic",
+  "id": 400
+ },
+ {
+  "chapter": 26,
+  "front": "What is letermovir's target and clinical niche?",
+  "back": "It inhibits the CMV terminase complex (UL56) and is used for prophylaxis in hematopoietic stem cell transplantation because it spares the marrow.",
+  "domain": "viral_fungal_parasitic",
+  "id": 401
+ },
+ {
+  "chapter": 26,
+  "front": "How reliable is heterophile antibody testing for infectious mononucleosis?",
+  "back": "It misses roughly 10 to 15 percent of adult cases and many early cases; EBV viral capsid antigen IgM settles ambiguous ones, and EBNA antibodies exclude acute infection.",
+  "domain": "viral_fungal_parasitic",
+  "id": 402
+ },
+ {
+  "chapter": 26,
+  "front": "What is post-transplant lymphoproliferative disorder and its stepwise management?",
+  "back": "EBV-driven B cell proliferation when T cell surveillance is suppressed after transplant; manage with reduction of immunosuppression, rituximab for CD20-positive disease, then chemotherapy or EBV-specific T cells.",
+  "domain": "viral_fungal_parasitic",
+  "id": 403
+ },
+ {
+  "chapter": 26,
+  "front": "What does parvovirus B19 cause in patients with sickle cell disease and in the immunocompromised?",
+  "back": "Transient aplastic crisis with reticulocytes near zero in hemolytic states; chronic pure red cell aplasia in the immunocompromised, diagnosed by serum PCR and treated with intravenous immunoglobulin.",
+  "domain": "viral_fungal_parasitic",
+  "id": 404
+ },
+ {
+  "chapter": 26,
+  "front": "What is measles immune amnesia?",
+  "back": "Measles depletes preexisting antibody repertoires and memory lymphocytes, leaving survivors more vulnerable to other infections for two to three years.",
+  "domain": "viral_fungal_parasitic",
+  "id": 405
+ },
+ {
+  "chapter": 26,
+  "front": "Give the meaning of HBsAg, anti-HBs, and anti-HBc.",
+  "back": "HBsAg means current infection; anti-HBs means immunity from resolved infection or vaccination; anti-HBc means true exposure to the virus (IgM acute, IgG lifelong).",
+  "domain": "viral_fungal_parasitic",
+  "id": 406
+ },
+ {
+  "chapter": 26,
+  "front": "Who must be screened for hepatitis B before rituximab, and what is done for those at risk?",
+  "back": "Everyone: check HBsAg and anti-HBc. Give prophylactic entecavir or tenofovir to those at meaningful reactivation risk, including HBsAg-negative anti-HBc-positive patients receiving anti-CD20 therapy.",
+  "domain": "viral_fungal_parasitic",
+  "id": 407
+ },
+ {
+  "chapter": 26,
+  "front": "Name the pan-genotypic direct-acting antiviral combinations that cure most hepatitis C.",
+  "back": "Sofosbuvir-velpatasvir and glecaprevir-pibrentasvir, given 8 to 12 weeks, achieve sustained virologic response in more than 95 percent.",
+  "domain": "viral_fungal_parasitic",
+  "id": 408
+ },
+ {
+  "chapter": 26,
+  "front": "Which hepatitis virus is most lethal in third trimester pregnancy?",
+  "back": "Hepatitis E genotype 1, with maternal mortality reported at 20 to 25 percent in endemic regions; genotype 3 causes chronic hepatitis in transplant recipients, treatable with ribavirin.",
+  "domain": "viral_fungal_parasitic",
+  "id": 409
+ },
+ {
+  "chapter": 26,
+  "front": "When does dengue become dangerous and what are key warning signs?",
+  "back": "At defervescence (days 4 to 7), when plasma leak begins; warning signs include abdominal pain, persistent vomiting, mucosal bleeding, lethargy, hepatomegaly, and rising hematocrit with falling platelets.",
+  "domain": "viral_fungal_parasitic",
+  "id": 410
+ },
+ {
+  "chapter": 27,
+  "front": "What is first-line therapy for candidemia and the two nondrug steps that accompany it?",
+  "back": "An echinocandin (caspofungin, micafungin, or anidulafungin), removal of central venous catheters when feasible, and daily blood cultures; treat 14 days from the first negative culture.",
+  "domain": "viral_fungal_parasitic",
+  "id": 411
+ },
+ {
+  "chapter": 27,
+  "front": "What makes Candida auris an urgent public health threat?",
+  "back": "Frequent multidrug resistance, misidentification by older biochemical systems, persistent skin colonization, environmental contamination, and healthcare outbreaks requiring contact precautions.",
+  "domain": "viral_fungal_parasitic",
+  "id": 412
+ },
+ {
+  "chapter": 27,
+  "front": "What do the halo sign and air crescent sign indicate in a neutropenic patient?",
+  "back": "The halo sign (nodule ringed by ground-glass hemorrhage) is early invasive aspergillosis; the air crescent appears later with neutrophil recovery as necrotic lung retracts.",
+  "domain": "viral_fungal_parasitic",
+  "id": 413
+ },
+ {
+  "chapter": 27,
+  "front": "What is first-line therapy for invasive aspergillosis and its monitoring requirement?",
+  "back": "Voriconazole, with therapeutic drug monitoring targeting troughs of roughly 1 to 5.5 micrograms per milliliter; isavuconazole is the principal alternative.",
+  "domain": "viral_fungal_parasitic",
+  "id": 414
+ },
+ {
+  "chapter": 27,
+  "front": "Which hosts are classically predisposed to mucormycosis, and why does ketoacidosis matter?",
+  "back": "Diabetic ketoacidosis, iron overload and deferoxamine use, neutropenia, and high-dose steroids; acidosis liberates iron from transferrin, feeding the fungus's iron uptake system.",
+  "domain": "viral_fungal_parasitic",
+  "id": 415
+ },
+ {
+  "chapter": 27,
+  "front": "What are the four pillars of mucormycosis treatment?",
+  "back": "Urgent repeated surgical debridement, high-dose liposomal amphotericin B, reversal of the underlying predisposition, and isavuconazole or posaconazole for step-down or salvage.",
+  "domain": "viral_fungal_parasitic",
+  "id": 416
+ },
+ {
+  "chapter": 27,
+  "front": "Contrast the hyphae of Aspergillus and the Mucorales on histopathology.",
+  "back": "Aspergillus: narrow, regularly septate hyphae branching at acute angles. Mucorales: broad, ribbon-like, sparsely septate hyphae branching at right angles.",
+  "domain": "viral_fungal_parasitic",
+  "id": 417
+ },
+ {
+  "chapter": 27,
+  "front": "Which invasive fungi are missed by beta-D-glucan testing?",
+  "back": "Cryptococcus (the capsule masks it) and the Mucorales (their wall largely lacks it); a negative glucan with radiographic mold disease should raise mucormycosis suspicion.",
+  "domain": "viral_fungal_parasitic",
+  "id": 418
+ },
+ {
+  "chapter": 27,
+  "front": "What is the fastest diagnostic test for disseminated histoplasmosis?",
+  "back": "Urine (and serum) Histoplasma antigen testing, which is most sensitive precisely in disseminated disease; severe disease gets amphotericin then a year of itraconazole.",
+  "domain": "viral_fungal_parasitic",
+  "id": 419
+ },
+ {
+  "chapter": 27,
+  "front": "What is distinctive about coccidioidal meningitis in CSF findings and treatment duration?",
+  "back": "It can show eosinophilic pleocytosis, and fluconazole must continue lifelong because relapse follows discontinuation; hydrocephalus is a common complication.",
+  "domain": "viral_fungal_parasitic",
+  "id": 420
+ },
+ {
+  "chapter": 27,
+  "front": "How does Pneumocystis pneumonia differ between HIV and non-HIV immunosuppressed hosts?",
+  "back": "Non-HIV disease is abrupt and fulminant with fewer organisms, more inflammation, and higher mortality; HIV disease is indolent with high organism burdens.",
+  "domain": "viral_fungal_parasitic",
+  "id": 421
+ },
+ {
+  "chapter": 27,
+  "front": "Which patients on corticosteroids warrant Pneumocystis prophylaxis?",
+  "back": "Those on roughly 20 mg of prednisone daily or more for a month or longer combined with another immunosuppressive agent, plus transplant recipients and patients on agents like alemtuzumab.",
+  "domain": "viral_fungal_parasitic",
+  "id": 422
+ },
+ {
+  "chapter": 27,
+  "front": "Name the signature toxicities of voriconazole.",
+  "back": "Hepatotoxicity, transient visual disturbances, photosensitivity with long-term skin cancer risk, periostitis from fluoride accumulation, and neurotoxicity at high troughs; kinetics are nonlinear with CYP2C19 variation.",
+  "domain": "viral_fungal_parasitic",
+  "id": 423
+ },
+ {
+  "chapter": 27,
+  "front": "Why is flucytosine never used alone, and what monitoring does it need?",
+  "back": "Resistance emerges rapidly on monotherapy; it partners amphotericin for cryptococcal induction and needs level monitoring because it causes marrow suppression, especially in renal impairment.",
+  "domain": "viral_fungal_parasitic",
+  "id": 424
+ },
+ {
+  "chapter": 27,
+  "front": "Which mold causes positive blood cultures with necrotic skin lesions in neutropenia, and which is linked to near-drowning brain abscesses?",
+  "back": "Fusarium sporulates in tissue and grows in blood cultures with skin lesions; Scedosporium apiospermum causes brain abscesses after near-drowning and is amphotericin resistant (use voriconazole).",
+  "domain": "viral_fungal_parasitic",
+  "id": 425
+ },
+ {
+  "chapter": 28,
+  "front": "What defines severe malaria and what is its treatment?",
+  "back": "Falciparum (or knowlesi) with impaired consciousness, acidosis, kidney injury, respiratory distress, hypoglycemia, severe anemia, or parasitemia of roughly 5 percent or more in the nonimmune; treat with intravenous artesunate.",
+  "domain": "viral_fungal_parasitic",
+  "id": 426
+ },
+ {
+  "chapter": 28,
+  "front": "Which malaria species form hypnozoites and what is required before radical cure?",
+  "back": "Plasmodium vivax and ovale; G6PD testing is mandatory before primaquine (14 days) or single-dose tafenoquine, both of which hemolyze G6PD-deficient patients and are contraindicated in pregnancy.",
+  "domain": "viral_fungal_parasitic",
+  "id": 427
+ },
+ {
+  "chapter": 28,
+  "front": "Compare the post-travel continuation of atovaquone-proguanil and doxycycline prophylaxis.",
+  "back": "Atovaquone-proguanil continues 7 days after leaving the endemic area; doxycycline continues 4 weeks, because only atovaquone-proguanil kills liver-stage parasites.",
+  "domain": "viral_fungal_parasitic",
+  "id": 428
+ },
+ {
+  "chapter": 28,
+  "front": "How is chronic Chagas disease diagnosed and who gets benznidazole?",
+  "back": "Two different concordant serologic assays; treat acute, congenital, and reactivated disease, and chronic infection in patients under about 50 without advanced cardiomyopathy.",
+  "domain": "viral_fungal_parasitic",
+  "id": 429
+ },
+ {
+  "chapter": 28,
+  "front": "What is the treatment of choice for visceral leishmaniasis in the United States?",
+  "back": "Liposomal amphotericin B; miltefosine is an oral alternative for selected disease but is teratogenic. Visceral leishmaniasis relapses in advanced HIV.",
+  "domain": "viral_fungal_parasitic",
+  "id": 430
+ },
+ {
+  "chapter": 28,
+  "front": "Why must Entamoeba histolytica treatment always include two drugs?",
+  "back": "Metronidazole or tinidazole kills invasive trophozoites but not intestinal cysts; a luminal agent such as paromomycin must follow or the patient can relapse and transmit.",
+  "domain": "viral_fungal_parasitic",
+  "id": 431
+ },
+ {
+  "chapter": 28,
+  "front": "How is Entamoeba histolytica distinguished from Entamoeba dispar?",
+  "back": "Microscopy cannot separate them; stool antigen testing or PCR specific for histolytica, or serology in liver abscess, establishes true infection.",
+  "domain": "viral_fungal_parasitic",
+  "id": 432
+ },
+ {
+  "chapter": 28,
+  "front": "What triggers Strongyloides hyperinfection syndrome and what is its classic triad?",
+  "back": "Corticosteroids above all, plus HTLV-1 coinfection and transplant immunosuppression; the triad is gram-negative bacteremia, ileus or abdominal symptoms, and diffuse pulmonary infiltrates, often without eosinophilia.",
+  "domain": "viral_fungal_parasitic",
+  "id": 433
+ },
+ {
+  "chapter": 28,
+  "front": "What screening rule prevents Strongyloides hyperinfection?",
+  "back": "Send Strongyloides IgG serology (or give empiric ivermectin) before significant corticosteroid therapy or transplantation in anyone who has lived in an endemic region, including the southeastern United States.",
+  "domain": "viral_fungal_parasitic",
+  "id": 434
+ },
+ {
+  "chapter": 28,
+  "front": "What is Katayama fever and why are egg studies negative during it?",
+  "back": "Acute schistosomiasis 4 to 8 weeks after heavy freshwater exposure: fever, urticaria, cough, and marked eosinophilia occurring before worms mature to egg production, so stool and urine microscopy are still negative.",
+  "domain": "viral_fungal_parasitic",
+  "id": 435
+ },
+ {
+  "chapter": 28,
+  "front": "How is viable parenchymal neurocysticercosis treated?",
+  "back": "Albendazole (adding praziquantel for multiple cysts) under corticosteroid cover plus antiepileptics; calcified lesions get antiepileptics alone, and steroids require prior tuberculosis and Strongyloides screening.",
+  "domain": "viral_fungal_parasitic",
+  "id": 436
+ },
+ {
+  "chapter": 28,
+  "front": "Why is Loa loa microfilaremia quantified before ivermectin in parts of Central Africa?",
+  "back": "In heavily coinfected patients, ivermectin can precipitate fatal encephalopathy from massive microfilarial killing, so loads are measured before mass onchocerciasis treatment.",
+  "domain": "viral_fungal_parasitic",
+  "id": 437
+ },
+ {
+  "chapter": 28,
+  "front": "Which infections classically cause eosinophilia in a returned traveler, and which do not?",
+  "back": "Tissue-migrating helminths (acute schistosomiasis, trichinellosis, hookworm and Ascaris migration, Strongyloides, filariae) cause it; protozoa such as malaria, Giardia, and Entamoeba do not, with Cystoisospora the exception.",
+  "domain": "viral_fungal_parasitic",
+  "id": 438
+ },
+ {
+  "chapter": 28,
+  "front": "What are the timing and key contraindications of yellow fever vaccination?",
+  "back": "Give at an authorized center at least 10 days before travel; contraindicated under 6 months of age, in thymus disorders, and significant immunosuppression, with caution for first doses after age 60.",
+  "domain": "viral_fungal_parasitic",
+  "id": 439
+ },
+ {
+  "chapter": 28,
+  "front": "What incubation rule helps exclude dengue in a returned traveler?",
+  "back": "Dengue incubates 4 to 14 days, so fever beginning more than two weeks after leaving an endemic area is effectively not dengue; falciparum malaria usually presents within a month of exposure.",
+  "domain": "viral_fungal_parasitic",
+  "id": 440
+ },
+ {
+  "chapter": 29,
+  "front": "What PK/PD index drives beta-lactam efficacy, and what is the clinical implication in critically ill patients?",
+  "back": "Time above MIC (fT>MIC). Prolonged or continuous infusions raise fT>MIC in patients with augmented renal clearance without changing the total daily dose.",
+  "domain": "antimicrobial_therapy",
+  "id": 441
+ },
+ {
+  "chapter": 29,
+  "front": "What is the consensus vancomycin exposure target for serious MRSA infection?",
+  "back": "An AUC/MIC of 400 to 600, guided by measured levels (Bayesian or two-level methods), replacing trough targets of 15 to 20 mg/L.",
+  "domain": "antimicrobial_therapy",
+  "id": 442
+ },
+ {
+  "chapter": 29,
+  "front": "Why can daptomycin never treat pneumonia, and what infection with lung lesions can it still treat?",
+  "back": "Pulmonary surfactant inactivates it in the alveolus. It remains effective for hematogenous septic pulmonary emboli from right-sided endocarditis.",
+  "domain": "antimicrobial_therapy",
+  "id": 443
+ },
+ {
+  "chapter": 29,
+  "front": "What laboratory monitoring does daptomycin require, and what co-medication should be held?",
+  "back": "Baseline and weekly creatine phosphokinase (CPK) for skeletal muscle toxicity; hold statins during therapy when feasible.",
+  "domain": "antimicrobial_therapy",
+  "id": 444
+ },
+ {
+  "chapter": 29,
+  "front": "Name the three principal toxicity classes of linezolid and their mechanisms.",
+  "back": "Serotonin syndrome (weak MAO inhibition with serotonergic drugs), reversible thrombocytopenia beyond about 2 weeks, and optic or peripheral neuropathy with lactic acidosis from mitochondrial protein synthesis inhibition on prolonged use.",
+  "domain": "antimicrobial_therapy",
+  "id": 445
+ },
+ {
+  "chapter": 29,
+  "front": "What three properties make once-daily aminoglycoside dosing effective and safer?",
+  "back": "Concentration-dependent killing (high Cmax/MIC), a prolonged post-antibiotic effect covering the trough, and saturable renal and cochlear uptake that a drug-free interval offloads.",
+  "domain": "antimicrobial_therapy",
+  "id": 446
+ },
+ {
+  "chapter": 29,
+  "front": "Which inherited variant causes profound deafness after even brief aminoglycoside exposure?",
+  "back": "The maternally inherited mitochondrial m.1555A>G variant in MT-RNR1, which makes human 12S rRNA resemble the bacterial ribosomal target.",
+  "domain": "antimicrobial_therapy",
+  "id": 447
+ },
+ {
+  "chapter": 29,
+  "front": "List the FDA boxed warnings for fluoroquinolones.",
+  "back": "Tendinopathy and tendon rupture, peripheral neuropathy, CNS effects, and exacerbation of myasthenia gravis, with additional warnings for aortic aneurysm and dissection, dysglycemia, and QT prolongation.",
+  "domain": "antimicrobial_therapy",
+  "id": 448
+ },
+ {
+  "chapter": 29,
+  "front": "By what two renal mechanisms does trimethoprim-sulfamethoxazole alter potassium and creatinine?",
+  "back": "Trimethoprim blocks the distal nephron epithelial sodium channel (amiloride-like) causing hyperkalemia, and inhibits tubular creatinine secretion, raising creatinine 10 to 20 percent without a true GFR change.",
+  "domain": "antimicrobial_therapy",
+  "id": 449
+ },
+ {
+  "chapter": 29,
+  "front": "What drives penicillin-cephalosporin cross-reactivity, and why is cefazolin usually safe in penicillin allergy?",
+  "back": "Shared R1 side chains, not the beta-lactam ring; overall cross-reactivity is roughly 1 to 2 percent, and cefazolin has a unique side chain shared with no penicillin.",
+  "domain": "antimicrobial_therapy",
+  "id": 450
+ },
+ {
+  "chapter": 29,
+  "front": "Which single beta-lactam pairing shows true aztreonam cross-reactivity?",
+  "back": "Ceftazidime, because aztreonam and ceftazidime share an identical side chain; aztreonam is otherwise safe in severe penicillin allergy.",
+  "domain": "antimicrobial_therapy",
+  "id": 451
+ },
+ {
+  "chapter": 29,
+  "front": "Why is cefepime preferred over ceftriaxone for serious Enterobacter cloacae infection despite reported ceftriaxone susceptibility?",
+  "back": "Enterobacter carries inducible chromosomal AmpC; third-generation cephalosporins select stably derepressed AmpC mutants on therapy, while cefepime is stable to AmpC.",
+  "domain": "antimicrobial_therapy",
+  "id": 452
+ },
+ {
+  "chapter": 29,
+  "front": "What positive D-test result means for clindamycin therapy?",
+  "back": "The isolate carries inducible erm methylase; clindamycin monotherapy will select constitutive resistance and fail, so choose another agent.",
+  "domain": "antimicrobial_therapy",
+  "id": 453
+ },
+ {
+  "chapter": 29,
+  "front": "Why do dalbavancin and ertapenem suit outpatient parenteral antimicrobial therapy?",
+  "back": "Dalbavancin's roughly 8 to 10 day half-life allows single or two-dose regimens, and ertapenem's high protein binding permits once-daily dosing, including for ESBL organisms.",
+  "domain": "antimicrobial_therapy",
+  "id": 454
+ },
+ {
+  "chapter": 29,
+  "front": "Which commonly used antibacterials need no renal dose adjustment?",
+  "back": "Nafcillin and oxacillin, ceftriaxone, doxycycline, tigecycline, azithromycin, clindamycin, linezolid, metronidazole, and moxifloxacin (which also fails in urine).",
+  "domain": "antimicrobial_therapy",
+  "id": 455
+ },
+ {
+  "chapter": 30,
+  "front": "How does MRSA resist beta-lactams, and how does VRE resist vancomycin?",
+  "back": "MRSA expresses PBP2a from mecA on the SCCmec cassette, a low-affinity transpeptidase; VRE rebuilds its precursor terminus to D-alanyl-D-lactate under the vanA or vanB operons.",
+  "domain": "antimicrobial_therapy",
+  "id": 456
+ },
+ {
+  "chapter": 30,
+  "front": "What did the MERINO trial establish for ESBL bloodstream infection?",
+  "back": "Piperacillin-tazobactam failed to prove noninferiority to meropenem, with mortality favoring meropenem, so carbapenems are standard for serious ESBL bacteremia.",
+  "domain": "antimicrobial_therapy",
+  "id": 457
+ },
+ {
+  "chapter": 30,
+  "front": "Match the three major carbapenemase families to active agents.",
+  "back": "KPC: ceftazidime-avibactam, meropenem-vaborbactam, or imipenem-relebactam. NDM (metallo): ceftazidime-avibactam plus aztreonam, or cefiderocol. OXA-48: ceftazidime-avibactam or cefiderocol.",
+  "domain": "antimicrobial_therapy",
+  "id": 458
+ },
+ {
+  "chapter": 30,
+  "front": "Why does combining ceftazidime-avibactam with aztreonam work against NDM producers?",
+  "back": "NDM cannot hydrolyze aztreonam, and avibactam neutralizes the co-carried serine beta-lactamases that would otherwise destroy aztreonam.",
+  "domain": "antimicrobial_therapy",
+  "id": 459
+ },
+ {
+  "chapter": 30,
+  "front": "How does cefiderocol enter gram-negative bacteria?",
+  "back": "It is a siderophore cephalosporin carried through the outer membrane by bacterial iron transporters, bypassing porin loss and surviving metallo-beta-lactamase hydrolysis.",
+  "domain": "antimicrobial_therapy",
+  "id": 460
+ },
+ {
+  "chapter": 30,
+  "front": "What is the current first-line treatment for uncomplicated gonorrhea in the United States?",
+  "back": "Ceftriaxone 500 mg intramuscularly once (1 g at 150 kg or more); azithromycin co-treatment was dropped in 2020, with doxycycline added only for chlamydial coverage.",
+  "domain": "antimicrobial_therapy",
+  "id": 461
+ },
+ {
+  "chapter": 30,
+  "front": "Name the seven CDC Core Elements of hospital antibiotic stewardship.",
+  "back": "Leadership commitment, accountability, pharmacy expertise, action, tracking, reporting, and education.",
+  "domain": "antimicrobial_therapy",
+  "id": 462
+ },
+ {
+  "chapter": 30,
+  "front": "What are the two foundational stewardship interventions and their trade-offs?",
+  "back": "Prospective audit and feedback (preserves autonomy, teaches, acts after 48 to 72 hours) and preauthorization (controls before the first dose but adds work and possible delay).",
+  "domain": "antimicrobial_therapy",
+  "id": 463
+ },
+ {
+  "chapter": 30,
+  "front": "Give the evidence-based short durations for CAP, VAP, gram-negative bacteremia, and intra-abdominal infection.",
+  "back": "CAP 5 days with early response, VAP 7 days, uncomplicated gram-negative bacteremia 7 days, and 4 days after adequate source control for intra-abdominal infection (STOP-IT).",
+  "domain": "antimicrobial_therapy",
+  "id": 464
+ },
+ {
+  "chapter": 30,
+  "front": "What is the negative predictive value use of the MRSA nasal PCR in stewardship?",
+  "back": "A negative nasal MRSA PCR has a negative predictive value above 95 percent for MRSA pneumonia and is a validated trigger to stop empiric vancomycin.",
+  "domain": "antimicrobial_therapy",
+  "id": 465
+ },
+ {
+  "chapter": 30,
+  "front": "Why is penicillin allergy delabeling a stewardship intervention?",
+  "back": "About 10 percent of patients carry the label but under 1 percent are truly allergic; delabeling by history and direct oral challenge restores first-line beta-lactams and reduces MRSA, C. difficile, and surgical infections.",
+  "domain": "antimicrobial_therapy",
+  "id": 466
+ },
+ {
+  "chapter": 30,
+  "front": "Contrast DOT and DDD as antimicrobial use metrics.",
+  "back": "Days of therapy (DOT) counts each agent-day regardless of dose and is the US standard feeding the NHSN SAAR; defined daily doses (DDD) divide grams by a reference adult dose and distort pediatric and renally adjusted use.",
+  "domain": "antimicrobial_therapy",
+  "id": 467
+ },
+ {
+  "chapter": 30,
+  "front": "What genetic elements spread resistance horizontally?",
+  "back": "Conjugative plasmids carry resistance cassettes between species, transposons move genes between plasmids and chromosomes, and integrons capture and stack gene cassettes behind one promoter.",
+  "domain": "antimicrobial_therapy",
+  "id": 468
+ },
+ {
+  "chapter": 30,
+  "front": "Why does Candida auris behave like a bacterial MDRO for infection control?",
+  "back": "It colonizes skin persistently, survives on surfaces for weeks, resists azoles routinely, is misidentified by older biochemical systems, and requires contact precautions with disinfectants proven active against it; echinocandins are first-line therapy.",
+  "domain": "antimicrobial_therapy",
+  "id": 469
+ },
+ {
+  "chapter": 30,
+  "front": "What FDA-approved microbiome products prevent recurrent C. difficile, and how?",
+  "back": "A rectally administered microbiota suspension (2022) and an oral spore preparation (2023) restore colonization resistance, the gut community's suppression of pathogen expansion.",
+  "domain": "antimicrobial_therapy",
+  "id": 470
+ },
+ {
+  "chapter": 31,
+  "front": "Which diseases require airborne precautions, and what room engineering is needed?",
+  "back": "Tuberculosis, measles, varicella, and disseminated zoster (plus smallpox): fitted N95 or PAPR and a negative-pressure airborne infection isolation room exhausted outside.",
+  "domain": "prevention_vaccination",
+  "id": 471
+ },
+ {
+  "chapter": 31,
+  "front": "When must soap and water replace alcohol-based hand rub?",
+  "back": "C. difficile (alcohol does not kill spores), norovirus (relatively alcohol-tolerant), and visibly soiled hands.",
+  "domain": "prevention_vaccination",
+  "id": 472
+ },
+ {
+  "chapter": 31,
+  "front": "List the elements of the CLABSI insertion bundle validated in the Keystone ICU project.",
+  "back": "Hand hygiene, maximal sterile barrier precautions, chlorhexidine-alcohol skin antisepsis, femoral site avoidance in adults, and daily review of line necessity; rates fell by about two thirds.",
+  "domain": "prevention_vaccination",
+  "id": 473
+ },
+ {
+  "chapter": 31,
+  "front": "What is the dominant driver of CAUTI risk and the highest-yield intervention?",
+  "back": "Catheter-days: bacteriuria accrues at roughly 3 to 7 percent per catheter-day, so nurse-driven removal protocols and avoiding placement are the key interventions.",
+  "domain": "prevention_vaccination",
+  "id": 474
+ },
+ {
+  "chapter": 31,
+  "front": "State the timing, dose, and redosing rules for cefazolin surgical prophylaxis.",
+  "back": "Infuse within 60 minutes before incision, 2 g (3 g at 120 kg or more), redose every 4 hours intraoperatively or after major blood loss, and stop within 24 hours of closure.",
+  "domain": "prevention_vaccination",
+  "id": 475
+ },
+ {
+  "chapter": 31,
+  "front": "Which perioperative physiologic measures reduce surgical site infection?",
+  "back": "Glucose below 180 to 200 mg/dL in all patients, normothermia, clippers instead of razors, chlorhexidine-alcohol skin preparation, and staphylococcal decolonization before implant surgery.",
+  "domain": "prevention_vaccination",
+  "id": 476
+ },
+ {
+  "chapter": 31,
+  "front": "Why should C. difficile testing be restricted to clinically significant diarrhea?",
+  "back": "5 to 15 percent of inpatients are asymptomatic carriers, so PCR on laxative or formed stool detects colonization, creating false cases and unnecessary treatment; two-step algorithms add toxin testing to separate disease.",
+  "domain": "prevention_vaccination",
+  "id": 477
+ },
+ {
+  "chapter": 31,
+  "front": "What did the REDUCE MRSA trial show about ICU decolonization?",
+  "back": "Universal decolonization with chlorhexidine bathing plus nasal mupirocin beat screening-and-isolation strategies, cutting all-cause bloodstream infection by 44 percent.",
+  "domain": "prevention_vaccination",
+  "id": 478
+ },
+ {
+  "chapter": 31,
+  "front": "List the core steps of an outbreak investigation.",
+  "back": "Confirm the outbreak and diagnoses, write a case definition, find cases and build a line list, draw the epidemic curve, compare exposed and unexposed, test hypotheses, implement control measures early, and communicate and monitor.",
+  "domain": "prevention_vaccination",
+  "id": 479
+ },
+ {
+  "chapter": 31,
+  "front": "Why did duodenoscopes transmit CRE despite guideline-compliant reprocessing?",
+  "back": "The elevator mechanism harbors debris beyond the reach of brushes and high-level disinfection; the fix was engineering, disposable elevator caps and single-use scopes, not retraining.",
+  "domain": "prevention_vaccination",
+  "id": 480
+ },
+ {
+  "chapter": 31,
+  "front": "What is the Spaulding classification?",
+  "back": "Critical items entering sterile tissue require sterilization, semicritical items touching mucous membranes require at least high-level disinfection, and noncritical items touching intact skin require low-level disinfection.",
+  "domain": "prevention_vaccination",
+  "id": 481
+ },
+ {
+  "chapter": 31,
+  "front": "State the approximate percutaneous transmission risks for HBV, HCV, and HIV after needlestick.",
+  "back": "HBV up to 22 to 31 percent for clinical hepatitis from an HBeAg-positive source in the unvaccinated, HCV roughly 0.2 percent in modern surveillance, and HIV about 0.3 percent.",
+  "domain": "prevention_vaccination",
+  "id": 482
+ },
+ {
+  "chapter": 31,
+  "front": "What is correct HIV post-exposure prophylaxis after an occupational needlestick?",
+  "back": "A three-drug regimen (typically tenofovir-emtricitabine plus an integrase inhibitor) started as soon as possible, ideally within hours and no later than 72, continued for 28 days.",
+  "domain": "prevention_vaccination",
+  "id": 483
+ },
+ {
+  "chapter": 31,
+  "front": "What isolation does disseminated zoster require, compared with localized zoster?",
+  "back": "Disseminated zoster: airborne plus contact precautions in a negative-pressure room with nonimmune staff excluded. Localized zoster in an immunocompetent host: standard precautions with lesions covered.",
+  "domain": "prevention_vaccination",
+  "id": 484
+ },
+ {
+  "chapter": 31,
+  "front": "How do NHSN surveillance definitions differ from clinical diagnosis?",
+  "back": "They are deliberately objective and standardized for comparability and trending (feeding the standardized infection ratio), so a surveillance case is not automatically a clinical diagnosis and definitions must not be gamed.",
+  "domain": "prevention_vaccination",
+  "id": 485
+ },
+ {
+  "chapter": 32,
+  "front": "Why do plain polysaccharide vaccines fail in infants, and how does conjugation fix this?",
+  "back": "Polysaccharides are T-independent antigens giving no memory and little infant response; coupling to a carrier protein recruits T cell help, producing class-switched, boostable memory responses effective in infancy.",
+  "domain": "prevention_vaccination",
+  "id": 486
+ },
+ {
+  "chapter": 32,
+  "front": "What happened to invasive Hib disease after conjugate vaccine introduction?",
+  "back": "United States pediatric invasive Hib disease, roughly 20,000 cases yearly before 1988, fell by more than 99 percent.",
+  "domain": "prevention_vaccination",
+  "id": 487
+ },
+ {
+  "chapter": 32,
+  "front": "What herd immunity threshold does measles require and why?",
+  "back": "Roughly 92 to 95 percent immunity, because its basic reproduction number is 12 to 18; measles outbreaks are the first sign of eroding coverage.",
+  "domain": "prevention_vaccination",
+  "id": 488
+ },
+ {
+  "chapter": 32,
+  "front": "What adjuvant does the recombinant zoster vaccine use, and what efficacy does it achieve?",
+  "back": "AS01 (monophosphoryl lipid A plus QS-21); efficacy is roughly 97 percent at ages 50 to 69 and about 91 percent at 70 and older, given as two doses.",
+  "domain": "prevention_vaccination",
+  "id": 489
+ },
+ {
+  "chapter": 32,
+  "front": "Summarize current adult pneumococcal vaccination.",
+  "back": "A single dose of PCV20 or PCV21 (or PCV15 followed by PPSV23) for pneumococcal-naive adults, routinely starting at age 50 since 2024, earlier with risk conditions.",
+  "domain": "prevention_vaccination",
+  "id": 490
+ },
+ {
+  "chapter": 32,
+  "front": "Which three vaccines are standard parts of prenatal care, and when?",
+  "back": "Tdap at 27 through 36 weeks every pregnancy, inactivated influenza in any trimester, and RSV vaccine at 32 through 36 weeks in season (or infant nirsevimab after birth); COVID-19 vaccination is also recommended.",
+  "domain": "prevention_vaccination",
+  "id": 491
+ },
+ {
+  "chapter": 32,
+  "front": "State the timing rules for vaccination before planned immunosuppression.",
+  "back": "Live vaccines at least 4 weeks before, inactivated and recombinant vaccines at least 2 weeks before; solid organ transplant recipients generally never receive live vaccines afterward.",
+  "domain": "prevention_vaccination",
+  "id": 492
+ },
+ {
+  "chapter": 32,
+  "front": "What steroid dose contraindicates live vaccines?",
+  "back": "Prednisone 20 mg or more daily (or 2 mg/kg) for 14 days or longer counts as high-dose immunosuppression.",
+  "domain": "prevention_vaccination",
+  "id": 493
+ },
+ {
+  "chapter": 32,
+  "front": "How does rituximab affect vaccination planning?",
+  "back": "B cell depletion abolishes antibody responses for roughly 6 months or more per dose, so vaccines should be given at least 2 weeks before starting or timed late in the dosing interval.",
+  "domain": "prevention_vaccination",
+  "id": 494
+ },
+ {
+  "chapter": 32,
+  "front": "Should household contacts of immunocompromised patients receive live vaccines?",
+  "back": "Yes: MMR, varicella, and rotavirus are recommended because vaccine strains essentially do not transmit; the caveat is avoiding diaper handling of rotavirus-vaccinated infants for 4 weeks if severely immunocompromised.",
+  "domain": "prevention_vaccination",
+  "id": 495
+ },
+ {
+  "chapter": 32,
+  "front": "Name the true vaccine contraindications.",
+  "back": "Anaphylaxis to a prior dose or component; severe immunodeficiency or pregnancy for live vaccines; encephalopathy within 7 days of a pertussis vaccine; prior intussusception for rotavirus. Mild illness, antibiotics, and egg allergy are not contraindications.",
+  "domain": "prevention_vaccination",
+  "id": 496
+ },
+ {
+  "chapter": 32,
+  "front": "How do VAERS and the Vaccine Safety Datalink differ?",
+  "back": "VAERS is passive, open reporting for rapid signal detection with no denominators or causality; the Vaccine Safety Datalink tests those signals against comparison groups in health system records.",
+  "domain": "prevention_vaccination",
+  "id": 497
+ },
+ {
+  "chapter": 32,
+  "front": "Summarize the fate of the 1998 MMR-autism paper.",
+  "back": "The 12-child Lancet case series was shown to involve undisclosed litigation funding and falsified histories, was fully retracted in 2010, its author lost his license, and controlled studies exceeding 650,000 children found no association.",
+  "domain": "prevention_vaccination",
+  "id": 498
+ },
+ {
+  "chapter": 32,
+  "front": "How does nirsevimab differ from palivizumab?",
+  "back": "Nirsevimab binds prefusion F with higher potency and carries half-life-extending Fc mutations, so one dose protects a full RSV season, replacing palivizumab's monthly high-risk-only dosing.",
+  "domain": "prevention_vaccination",
+  "id": 499
+ },
+ {
+  "chapter": 32,
+  "front": "What anti-HBs level defines hepatitis B protection, and what does later waning mean in a documented responder?",
+  "back": "Anti-HBs of 10 mIU/mL or higher after the series defines response; documented responders remain protected by memory B cells even after titers wane, needing no boosters or immune globulin.",
+  "domain": "prevention_vaccination",
+  "id": 500
+ }
+]
